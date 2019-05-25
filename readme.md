@@ -1,10 +1,8 @@
-# The StatNLP Semantic Parser Version 0.2-n
+# The StatNLP Semantic Parser
 
-Code for the AAAI-17 paper: Semantic Parsing with Neural Hybrid Trees. This code implements a neural, discriminative hybrid tree framework for semantic parsing.
+Code for the: Text2Math: End-to-end Parsing Text into Math Expressions
 
 ## Installation
-
-This code has been tested on Amazon AWS `r3.8xlarge` instance and AMI `ami-b36981d8`. Follow the instructions below to install dependencies.
 
 Java 1.8
 
@@ -40,13 +38,7 @@ luarocks install lua-messagepack
 luarocks install luautf8
 ```
 
-Swipl (for evaluation)
-
-```
-sudo apt install swi-prolog-nox
-```
-
-A jar file in provided in `bin/`. One easy way to re-compile the code is to create a new project in Eclipse and export a runnable JAR file for the main class: `SemTextExperimenter_Discriminative`.
+A jar file in provided in `bin/`. One easy way to re-compile the code is to create a new project in Eclipse and export a runnable JAR file for the main classes: `MathSolverMain` and `EquationParserMain`.
 
 ## Word embedding
 
@@ -56,20 +48,12 @@ Download the .pkl files from [Polyglot]( https://sites.google.com/site/rmyeid/pr
 bash prepare_torch.sh
 ```
 
-## Running the code
+## Reproducing the experimental results
 
 The following script will pre-train a hybrid tree model, train the neural network, and perform evaluation on the standard GeoQuery dataset.
 
 ```
-bash run-general.sh <lang1> <lang2> ... <langN>
-```
-
-## Reproducing the experimental results
-
-First, pre-train the hybrid tree models (Lu, 2015) for multiple languages:
-
-```
-bash pretrain.sh <lang1> <lang2> ... <langN>
+bash run_parser.sh
 ```
 
 Run a neural net server that listens on port 5556 and specify the `gpuid` (>= 0 for GPU, -1 for CPU)
@@ -81,17 +65,8 @@ th server.lua -port 5556 -gpuid -1
 Train neural hybrid tree models for multiple languages:
 
 ```
-bash run.sh <lang1> <lang2> ... <langN>
+bash run_neural.sh
 ```
 
-Model robustness experiments (this requires the above trained models):
 
-```
-bash noise_test.sh <lang1> <lang2> ... <langN>
-```
 
-## Contact
-
-Raymond Hendy Susanto and Wei Lu, Singapore University of Technology and Design
-
-Please drop an email at raymond_susanto@sutd.edu.sg for questions.
