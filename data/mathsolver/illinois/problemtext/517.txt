@@ -1,0 +1,1 @@
+Carol starts with 42 blocks. She loses 25. How many blocks does Carol end with?

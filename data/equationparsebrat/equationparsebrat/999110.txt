@@ -1,0 +1,5 @@
+Arthur J. Gallagher stock price target raised to $55 from $50 at Citigroup.
+
+V1=55-50
+
+[(Arthur )(J. )(Gallagher )(stock )(price )(target )][raised ][to ][($55 )][from ][($50 )][at ][(Citigroup )]. 

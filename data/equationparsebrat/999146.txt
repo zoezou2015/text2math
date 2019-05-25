@@ -1,0 +1,5 @@
+Cisco Systems' stock price target raised to $33 from $31 at Cantor Fitzgerald.
+
+V1=33-31
+
+[(Cisco )(Systems )][' (stock )(price )(target )][raised ][to ][($33 )][from ][($31 )][at ][(Cantor )(Fitzgerald )]. 

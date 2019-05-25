@@ -1,0 +1,5 @@
+One cyclist rides twice as fast as the other.
+
+V1=2*V2
+
+[One (cyclist )(rides )][twice as fast ][as ][the other ]. 

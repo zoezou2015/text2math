@@ -1,0 +1,5 @@
+Japan's Nikkei Average opens 0.9% up at 18,499.58.
+
+V1+(0.009*V1)=18499.58
+
+[(Japan )]['s (Nikkei )(Average )][opens ][0.9 (% )][up ][at ][18,499.58 ]. 

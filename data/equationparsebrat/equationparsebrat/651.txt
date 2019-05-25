@@ -1,0 +1,5 @@
+The second of two supplementary angles is 40 degrees larger than 3 times the first angle.
+
+V1=40+(3*V2)
+
+[The second ][of ][two supplementary (angles )][is ][40 (degrees )larger than 3 (times )][the first (angle )]. 

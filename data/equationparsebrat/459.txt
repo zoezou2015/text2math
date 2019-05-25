@@ -1,0 +1,5 @@
+The Mainers won 24 more than twice as many games as they lost.
+
+V1=24+(2*V2)
+
+[The (Mainers )][won ][24 ][more ][than ][twice as many (games )][as ][they ][lost ]. 

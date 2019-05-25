@@ -1,0 +1,5 @@
+Seven times the smaller number is the same as 5 times the larger number.
+
+7*V1=5*V2
+
+[Seven (times )][the smaller (number )][is ][the same ][as ][5 (times )][the larger (number )]. 

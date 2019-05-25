@@ -1,0 +1,5 @@
+Think of a number , half it and the result is 9.
+
+0.5*V1=9
+
+[Think ][of ][a (number )], [half it ]and [the (result )][is ][9 ]. 

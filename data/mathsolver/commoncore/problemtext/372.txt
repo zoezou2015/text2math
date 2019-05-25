@@ -1,0 +1,1 @@
+Ned was helping the cafeteria workers pick up lunch trays, but he could only carry 5 trays at a time. If he had to pick up 5 trays from one table and 5 trays from another, how many trips will he make?

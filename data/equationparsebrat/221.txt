@@ -1,0 +1,5 @@
+There are 3 more girls than boys in Tom 's class.
+
+V1-3=V2
+
+[There ][are ][3 more (girls )][than ][(boys )][in ][(Tom )]['s (class )]. 

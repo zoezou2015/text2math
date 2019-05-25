@@ -1,0 +1,5 @@
+Nine more than two times a certain number is 137.
+
+9+(2*V1)=137
+
+[Nine more than two (times )][a certain (number )][is ][137 ]. 

@@ -1,0 +1,5 @@
+The difference between two numbers is 6.
+
+V1-V2=6
+
+[The (difference )][between ][two (numbers )][is ][6 ]. 

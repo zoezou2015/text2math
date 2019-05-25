@@ -1,0 +1,5 @@
+The larger number is 1 less than twice the smaller number.
+
+V1=(2*V2)-1
+
+[The larger (number )][is ][1 ][less ][than ][twice the smaller (number )]. 

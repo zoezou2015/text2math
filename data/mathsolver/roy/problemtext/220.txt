@@ -1,0 +1,1 @@
+Bonnie 's science class recorded the rainfall each day . They recorded 0.16666666666666666 centimeter of rain on Monday , 0.4166666666666667 centimeter of rain on Tuesday , and 0.08333333333333333 centimeter of rain on Wednesday . How many centimeters of rain did the class record in all ?

@@ -1,0 +1,5 @@
+If three times the smaller number is subtracted from the larger number , the result is 22. 
+
+(V2-(3*V1))=22
+
+[If ][three (times )][the smaller (number )][is subtracted ][from ][the larger (number )], [the (result )][is ][22 ]. 

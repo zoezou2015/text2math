@@ -1,0 +1,5 @@
+Stoxx Europe opens 0.6% higher at 384.39.
+
+V1+(0.006*V1)=384.39
+
+[(Stoxx )(Europe )][opens ][0.6 (% )][higher ][at ][384.39 ]. 

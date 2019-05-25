@@ -1,0 +1,5 @@
+The school took 246 dollars on the second day by selling 12 senior citizen tickets and 10 student tickets.
+
+((12*V1)+(10*V2))=246
+
+[The (school )][took ][246 (dollars )][on ][the second (day )][by ][selling ][12 senior (citizen )(tickets )]and [10 (student )(tickets )]. 

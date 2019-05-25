@@ -1,0 +1,5 @@
+He has 12 more dimes than nickels.
+
+V1=V2-12
+
+[He ][has ][12 more (dimes )][than ][(nickels )]. 

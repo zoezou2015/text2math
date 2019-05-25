@@ -1,0 +1,5 @@
+You have 160 dollars and save 7 dollars per week.
+
+V1=160+(7*V2)
+
+[You ][have ][160 (dollars )]and [save ][7 (dollars )][per ][(week )]. 

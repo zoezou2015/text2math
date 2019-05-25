@@ -1,0 +1,5 @@
+When 4 times the number is added to 7 times the number the result is 55.
+
+((4*V1)+(7*V1))=55
+
+[When ][4 (times )][the (number )][is added ][to ][7 (times )][the (number )][the (result )][is ][55 ]. 

@@ -1,0 +1,5 @@
+Two planes start from Chicago at the same time and fly in opposite directions , one averaging a speed of 40 miles per hour greater than the other.
+
+V1=40+V2
+
+[Two (planes )][start ][from ][(Chicago )][at ][the same (time )]and [fly ][in ][opposite (directions )], [one averaging ][a (speed )][of ][40 (miles )][per ][(hour )][greater ][than ][the other ]. 

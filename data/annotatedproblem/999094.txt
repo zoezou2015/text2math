@@ -1,0 +1,5 @@
+U.K.'s FTSE opens 0.4% lower at 6,873.42.
+
+V1-(0.004*V1)=6873.42
+
+[(U.K. )]['s (FTSE )][opens ][0.4 (% )][lower ][at ][6,873.42 ]. 

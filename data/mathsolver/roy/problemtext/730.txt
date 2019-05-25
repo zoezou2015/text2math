@@ -1,0 +1,1 @@
+Each CD rack holds 8.0 CDs. A shelf can hold 4.0 racks. How many total CDs can fit on the shelf?

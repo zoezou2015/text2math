@@ -1,0 +1,5 @@
+You are currently twice as far from your house as you are from your mothers house.
+
+V1/2=V2
+
+[You ][are ][currently twice as far ][from ][your (house )][as ][you ][are ][from ][your (mothers )(house )]. 

@@ -1,0 +1,5 @@
+Honda day shift produced 4 times as much as second shift.
+
+V1=4*V2
+
+[(Honda )(day )(shift )][produced ][4 (times )][as much ][as ][second (shift )]. 

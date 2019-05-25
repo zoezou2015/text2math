@@ -1,0 +1,5 @@
+2 apples and 3 orange equals 0.70 dollars.
+
+((2*V1)+(3*V2))=0.7
+
+[2 (apples )]and [3 (orange )][equals ][0.70 (dollars )]. 

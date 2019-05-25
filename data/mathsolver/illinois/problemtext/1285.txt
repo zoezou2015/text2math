@@ -1,0 +1,1 @@
+There are 84 leaves. There are 139 ladybugs on each leaf. How many ladybugs are there in all?

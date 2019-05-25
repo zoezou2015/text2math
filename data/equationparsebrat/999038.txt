@@ -1,0 +1,5 @@
+April crude settles at $49.45/bbl, down $1.36.
+
+V1=49.45-1.36
+
+[(April )(crude )][settles ][at ][($49.45 )(/ )(bbl )], [down ][($1.36 )]. 

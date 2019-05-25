@@ -1,0 +1,5 @@
+The total cost of a pair of pants and a belt was 70.93 dollars.
+
+V1+V2=70.93
+
+[The total (cost )][of ][a (pair )][of ][(pants )]and [a (belt )][was ][70.93 (dollars )]. 

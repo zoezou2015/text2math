@@ -1,0 +1,5 @@
+Lane invested 22,000 dollars , part at 8 % and part at 7 %.
+
+V1+V2=22000
+
+[(Lane )][invested ][22,000 (dollars )], [(part )][at ][8 (% )and (part )][at ][7 (% )]. 

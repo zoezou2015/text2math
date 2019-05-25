@@ -1,0 +1,5 @@
+There are six more quarters than dimes. 
+
+V1-6=V2
+
+[There ][are ][six more (quarters )][than ][(dimes )]. 

@@ -1,0 +1,5 @@
+Seven times a number is the same as 12 more than 3 times the number.
+
+7*V1=12+(3*V2)
+
+[Seven (times )][a (number )][is ][the same ][as ][12 more than 3 (times )][the (number )]. 

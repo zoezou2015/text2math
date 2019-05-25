@@ -1,0 +1,5 @@
+Twice a number increased by 5 is 17.
+
+(2*V1)+5=17
+
+[Twice a (number )][increased ][by ][5 ][is ][17 ]. 

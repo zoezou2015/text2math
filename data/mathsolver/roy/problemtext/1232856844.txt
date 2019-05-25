@@ -1,0 +1,1 @@
+Johnny ran 10.0 laps.  It takes him 3.0 minutes to run 1.0 lap.  How long did Johnny run?

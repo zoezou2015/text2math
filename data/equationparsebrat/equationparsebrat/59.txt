@@ -1,0 +1,5 @@
+Stan invested 17,000 dollars , part at 18 % and part at 4 %.
+
+V1+V2=17000
+
+[(Stan )][invested ][17,000 (dollars )], [(part )][at ][18 (% )and (part )][at ][4 (% )]. 

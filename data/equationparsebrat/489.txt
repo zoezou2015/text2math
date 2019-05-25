@@ -1,0 +1,5 @@
+Plan A costs 0.25 dollars per text message , plus a monthly fee of 9 dollars.
+
+V1=(0.25*V2)+9
+
+[(Plan )A ][costs ][0.25 (dollars )][per ][(text )(message )], plus [a monthly (fee )][of ][9 (dollars )]. 

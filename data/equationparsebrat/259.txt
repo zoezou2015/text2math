@@ -1,0 +1,5 @@
+Caesar 's charges 800 dollars to rent the room and 30 dollars for each meal.
+
+V1=800+(30*V2)
+
+[(Caesar )]['s (charges )800 (dollars )][to rent ][the (room )]and [30 (dollars )][for ][each (meal )]. 

@@ -1,0 +1,5 @@
+There are 301 apples and oranges all together.
+
+V1+V2=301
+
+[There ][are ][301 (apples )and (oranges )][all together ]. 

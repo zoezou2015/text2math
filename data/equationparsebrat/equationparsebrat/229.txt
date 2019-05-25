@@ -1,0 +1,5 @@
+The second number is 3 less than twice the first number.
+
+V1=(2*V2)-3
+
+[The second (number )][is ][3 ][less ][than ][twice the first (number )]. 

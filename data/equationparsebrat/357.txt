@@ -1,0 +1,5 @@
+3 times one of them is more than 4 times the second by 2.
+
+((3*V1)-(4*V2))=2
+
+[3 (times )one ][of ][them ][is ][more than 4 (times )][the (second )][by ][2 ]. 

@@ -1,0 +1,5 @@
+Steve has 36 coins consisting of dimes and nickels.
+
+V1+V2=36
+
+[(Steve )][has ][36 (coins )][consisting ][of ][(dimes )and (nickels )]. 

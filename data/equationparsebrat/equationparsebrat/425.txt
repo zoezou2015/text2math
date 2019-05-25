@@ -1,0 +1,5 @@
+This year he wants to plant 80 more acres of sunflowers than flax.
+
+V1=V2-80
+
+[This (year )][he ][wants to plant ][80 more (acres )][of ][(sunflowers )][than ][(flax )]. 

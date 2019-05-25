@@ -1,0 +1,1 @@
+Ella owns 2.0 dogs . Each day , 1.0 dog eats 0.125 scoop of dog food, and the other dog eats 0.125 scoop . Together , how much dog food do the 2.0 dogs eat each day ?

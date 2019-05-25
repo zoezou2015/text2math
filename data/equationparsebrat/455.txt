@@ -1,0 +1,5 @@
+The sum of the average miles per gallon obtained by the two cars in a particular week is 45.
+
+V1+V2=45
+
+[The (sum )][of ][the average (miles )][per ][(gallon )][obtained ][by ][the two (cars )][in ][a particular (week )][is ][45 ]. 

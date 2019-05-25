@@ -1,0 +1,1 @@
+Ruby has 63 apples. Emily takes 55 away. How many apples will Ruby have?

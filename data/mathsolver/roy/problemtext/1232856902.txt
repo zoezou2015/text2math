@@ -1,0 +1,1 @@
+If a perfect score is 21 points, and 3 games were played, how many  points were earned per round?

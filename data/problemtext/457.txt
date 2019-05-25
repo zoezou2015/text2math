@@ -1,0 +1,1 @@
+0.5 of the first number plus 0.3333 of the second number is 11

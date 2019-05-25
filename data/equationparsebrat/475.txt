@@ -1,0 +1,5 @@
+Bob invested 22,000 dollars , part at 18 % and part at 14 %.
+
+V1+V2=22000
+
+[(Bob )][invested ][22,000 (dollars )], [(part )][at ][18 (% )and (part )][at ][14 (% )]. 

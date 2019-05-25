@@ -1,0 +1,1 @@
+The number of grocery items on two grocery lists differs by 7

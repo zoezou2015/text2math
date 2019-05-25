@@ -1,0 +1,5 @@
+Safety Rent A Truck costs 41.95 dollars plus 0.29 dollars per mile.
+
+V1=41.95+(0.29*V2)
+
+[(Safety )(Rent )(A )(Truck )][costs ][41.95 (dollars )][plus 0.29 (dollars )][per ][(mile )]. 

@@ -1,0 +1,5 @@
+The shoe store has twice as many black shoes as it does brown shoes.
+
+V1/2=V2
+
+[The (shoe )(store )][has ][twice as many black (shoes )][as ][it ][does ][brown (shoes )]. 

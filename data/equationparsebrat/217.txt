@@ -1,0 +1,5 @@
+Jim bought 2 bags of bagels and 3 packages of cream cheese and paid 12.00 dollars.
+
+((2*V1)+(3*V2))=12
+
+[(Jim )][bought ][2 (bags )][of ][(bagels )]and [3 (packages )][of ][(cream )(cheese )]and [paid ][12.00 (dollars )]. 

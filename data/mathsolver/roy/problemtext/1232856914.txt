@@ -1,0 +1,1 @@
+There are 14240.0 shelves in a library. If each shelf has 8 books on it, how many books does the library have ?

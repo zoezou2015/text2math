@@ -1,0 +1,1 @@
+A garden has 52 rows and 15 columns of bean plans. How many plants are there in all?

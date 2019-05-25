@@ -1,0 +1,5 @@
+1 number is 9 less than twice another.
+
+V1=(2*V2)-9
+
+[1 (number )][is ][9 ][less ][than ][twice another ]. 

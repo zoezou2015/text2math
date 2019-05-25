@@ -1,0 +1,5 @@
+Phyllis invested 39000 dollars , a portion earning a simple interest rate of 4 % per year and the rest earning a rate of 6 % per year.
+
+V1+V2=39000
+
+[(Phyllis )][invested ][39000 (dollars )], [a (portion )][earning ][a simple (interest )(rate )][of ][4 (% )][per ][(year )]and [the (rest )][earning ][a (rate )][of ][6 (% )][per ][(year )]. 

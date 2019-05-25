@@ -1,0 +1,5 @@
+Pharmacyclics stock price target cut to $163 from $233 at Credit Suisse.
+
+V1=233-163
+
+[(Pharmacyclics )(stock )(price )(target )(cut )][to ][($163 )][from ][($233 )][at ][(Credit )(Suisse )]. 

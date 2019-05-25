@@ -1,0 +1,5 @@
+1 more than 0.6667 the number is 0.75 the number.
+
+1+(0.6667*V1)=0.75*V1
+
+[1 more than 0.6667 ][the (number )][is ][0.75 ][the (number )]. 

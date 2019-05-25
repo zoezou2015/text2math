@@ -1,0 +1,5 @@
+There were 178 more hikers than bike riders.
+
+V1=V2-178
+
+[There ][were ][178 ][more (hikers )][than ][(bike )(riders )]. 

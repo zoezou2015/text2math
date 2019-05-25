@@ -1,0 +1,5 @@
+The length of the rectangle is 12 centimeters less than three times the width.
+
+V1=(3*V2)-12
+
+[The (length )][of ][the (rectangle )][is ][12 (centimeters )][less ][than ][three (times )][the (width )]. 

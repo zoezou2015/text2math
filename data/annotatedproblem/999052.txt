@@ -1,0 +1,5 @@
+Boeing stock price target raised to $175 from $160 at Stifel Nicolaus.
+
+V1=175-160
+
+[(Boeing )(stock )(price )(target )][raised ][to ][($175 )][from ][($160 )][at ][(Stifel )(Nicolaus )]. 

@@ -1,0 +1,5 @@
+There were twice as many adults as children.
+
+V1/2=V2
+
+[There ][were ][twice ][as ][many (adults )][as ][(children )]. 

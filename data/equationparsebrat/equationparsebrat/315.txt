@@ -1,0 +1,5 @@
+In one day , a store sold 1.6 as many DVDs as CDs.
+
+V1/1.6=V2
+
+[In ][1 (day )], [a (store )][sold ][1.6 ][as ][many (DVDs )][as ][(CDs )]. 

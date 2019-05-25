@@ -1,0 +1,1 @@
+A trivia team had 5.0 members total, but during a game 2.0 members didn't show up. If all member that did show up scored 6.0 points in total, how many points did each one?

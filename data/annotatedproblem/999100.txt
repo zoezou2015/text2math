@@ -1,0 +1,5 @@
+Brent crude drops 1.7%, to $59.48 a barrel.
+
+V1-(0.017*V1)=59.48
+
+[(Brent )(crude )][drops ][1.7 (% )], [to ][($59.48 )][a (barrel )]. 

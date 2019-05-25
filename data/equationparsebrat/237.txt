@@ -1,0 +1,5 @@
+One is 4 greater than 0.375 of the other.
+
+V1=4+(0.375*V2)
+
+[One ][is ][4 greater ][than ][0.375 ][of ][the other ]. 

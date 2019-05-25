@@ -1,0 +1,5 @@
+The number of grocery items on two grocery lists differs by 7.
+
+V1-V2=7
+
+[The (number )][of ][(grocery )(items )][on ][two (grocery )(lists )][differs ][by ][7 ]. 

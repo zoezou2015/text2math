@@ -1,0 +1,5 @@
+The second is 7 more than 5 times the first.
+
+V1=7+(5*V2)
+
+[The second ][is ][7 ][more ][than ][5 (times )][the first ]. 

@@ -1,0 +1,5 @@
+One cyclist travels 8 kilometers per hour faster than the other.
+
+V1=8+V2
+
+[One (cyclist )][travels ][8 (kilometers )][per ][(hour )][faster ][than ][the other ]. 

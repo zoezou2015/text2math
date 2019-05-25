@@ -1,0 +1,5 @@
+3 times a number is added to 5 times a number to get 54.
+
+((3*V1)+(5*V2))=54
+
+[3 (times )][a (number )][is added ][to ][5 (times )][a (number )][to get ][54 ]. 

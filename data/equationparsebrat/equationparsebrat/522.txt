@@ -1,0 +1,5 @@
+The number of 22-cent stamps is three more than four times the number of 40-cent stamps. 
+
+V1=3+(4*V2)
+
+[The (number )][of ][22-cent (stamps )][is ][three ][more ][than ][four (times )][the (number )][of ][40-cent (stamps )]. 

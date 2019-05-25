@@ -1,0 +1,5 @@
+The price of the washer is 3 times the price of the dryer.
+
+V1=3*V2
+
+[The (price )][of ][the (washer )][is ][3 (times )][the (price )][of ][the (dryer )]. 

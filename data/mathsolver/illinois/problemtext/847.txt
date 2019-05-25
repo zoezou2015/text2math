@@ -1,0 +1,1 @@
+Ruby has 36 candies and 6 bananas. If she shares the candies among 9 friends, how many candies does each friend get?

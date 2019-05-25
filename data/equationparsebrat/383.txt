@@ -1,0 +1,5 @@
+530 pesos can buy 4 kilograms of fish and 2 kilograms of pork.
+
+((4*V1)+(2*V2))=530
+
+[530 (pesos )][can buy ][4 (kilograms )][of ][(fish )]and [2 (kilograms )][of ][(pork )]. 

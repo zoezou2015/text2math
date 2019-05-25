@@ -1,0 +1,5 @@
+The difference of twice of one of them and the other one is 5.
+
+(2*V1)-V2=5
+
+[The (difference )][of ][twice ][of ][one ][of ][them ]and [the other one ][is ][5 ]. 

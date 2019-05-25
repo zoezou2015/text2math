@@ -1,0 +1,5 @@
+After reading several fashion magazines she decides to stock her shelves with 34 more blue dresses than red dresses.
+
+V1=V2-34
+
+[After ][reading ][several (fashion )(magazines )][she ][decides to stock ][her (shelves )][with ][34 more blue (dresses )][than ][red (dresses )]. 

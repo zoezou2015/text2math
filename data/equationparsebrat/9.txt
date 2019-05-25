@@ -1,0 +1,5 @@
+A 20-foot board is cut into 2 pieces.
+
+V1+V2=20
+
+[A 20-foot (board )][is cut ][into ][2 (pieces )]. 

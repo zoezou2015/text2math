@@ -1,0 +1,5 @@
+The trailer weighs 200 pounds less than 0.5 as much as the truck.
+
+V1=(0.5*V2)-200
+
+[The (trailer )][weighs ][200 (pounds )][less ][than ][0.5 ][as much ][as ][the (truck )]. 

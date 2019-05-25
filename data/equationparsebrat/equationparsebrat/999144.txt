@@ -1,0 +1,5 @@
+Cisco Systems' stock price target raised to $30 from $27 at Pacific Crest.
+
+V1=30-27
+
+[(Cisco )(Systems )][' (stock )(price )(target )][raised ][to ][($30 )][from ][($27 )][at ][(Pacific )(Crest )]. 

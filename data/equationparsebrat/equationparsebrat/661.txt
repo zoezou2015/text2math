@@ -1,0 +1,5 @@
+The length of the rectangle is 28 feet less than three times the width.
+
+V1=(3*V2)-28
+
+[The (length )][of ][the (rectangle )][is ][28 (feet )][less ][than ][three (times )][the (width )]. 

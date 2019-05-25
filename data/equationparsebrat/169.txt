@@ -1,0 +1,5 @@
+The second agency charges 18.25 dollars per day and 0.22 dollars per mile.
+
+V1=18.25+(0.22*V2)
+
+[The second (agency )(charges )][18.25 (dollars )][per ][(day )]and [0.22 (dollars )][per ][(mile )]. 

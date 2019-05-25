@@ -1,0 +1,5 @@
+The sum of the ages of a china plate and a glass plate is 16 years. 
+
+V1+V2=16
+
+[The (sum )][of ][the (ages )][of ][a (china )(plate )]and [a (glass )(plate )][is ][16 (years )]. 

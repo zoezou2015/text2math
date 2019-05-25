@@ -1,0 +1,5 @@
+The first agency charges 20.25 dollars per day and 0.14 dollars per mile. 
+
+V1=20.25+(0.14*V2)
+
+[The first (agency )(charges )][20.25 (dollars )][per ][(day )]and [0.14 (dollars )][per ][(mile )]. 

@@ -1,0 +1,5 @@
+The sum of the numbers of boys and girls in a class is 36.
+
+V1+V2=36
+
+[The (sum )][of ][the (numbers )][of ][(boys )and (girls )][in ][a (class )][is ][36 ]. 

@@ -1,0 +1,5 @@
+Two investments are made totaling 8800 dollars.
+
+V1+V2=8800
+
+[2 (investments )][are made totaling ][8800 (dollars )]. 

@@ -1,0 +1,5 @@
+10 less than 0.6667 the number is 0.25 the number.
+
+(0.6667*V1)-10=0.25*V2
+
+[10 less than 0.6667 ][the (number )][is ][0.25 ][the (number )]. 

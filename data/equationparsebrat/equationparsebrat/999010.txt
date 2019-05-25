@@ -1,0 +1,5 @@
+Walter Investment Mgmt stock price target cut to $22 from $30 at Credit Suisse.
+
+V1=30-22
+
+[(Walter )(Investment )(Mgmt )(stock )(price )(target )(cut )][to ][($22 )][from ][($30 )][at ][(Credit )(Suisse )]. 

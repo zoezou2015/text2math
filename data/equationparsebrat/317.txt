@@ -1,0 +1,5 @@
+The total number of DVDs and CDs sold that day was 273.
+
+V1+V2=273
+
+[The total (number )][of ][(DVDs )]and [(CDs )][sold ][that (day )][was ][273 ]. 

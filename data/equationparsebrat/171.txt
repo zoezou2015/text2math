@@ -1,0 +1,5 @@
+The carpenter saws a board that is 22 feet long into two pieces.
+
+V1+V2=22
+
+[The (carpenter )(saws )][a (board )][that ][is ][22 (feet )][long ][into ][two (pieces )]. 

@@ -1,0 +1,5 @@
+7 audio cassettes and 3 video cassettes cost rs 1110.
+
+((7*V1)+(3*V2))=1110
+
+[7 audio (cassettes )]and [3 (video )(cassettes )(cost )(rs )1110 ]. 

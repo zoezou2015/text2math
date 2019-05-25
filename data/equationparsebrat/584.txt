@@ -1,0 +1,5 @@
+A limestone statue is 56 years older than a marble statue.
+
+V1=V2+56
+
+[A (limestone )(statue )][is ][56 (years )][older ][than ][a (marble )(statue )]. 

@@ -1,0 +1,1 @@
+In a video game, each enemy defeated gives you 5 points. If a level has 8 enemies total and you destroy all but 6 of them, how many points would you earn?

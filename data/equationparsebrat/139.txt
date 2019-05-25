@@ -1,0 +1,5 @@
+The probability that San Francisco plays in the next super bowl plus the probability that they do not play is 1.
+
+V1+V2=1
+
+[The (probability )][that ][(San )(Francisco )][plays ][in ][the next super (bowl )]plus [the (probability )][that ][they ][do not play ][is ][1 ]. 

@@ -1,0 +1,5 @@
+One number exceeds another by 10.
+
+V1-V2=10
+
+[One (number )][exceeds ][another ][by ][10 ]. 

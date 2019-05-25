@@ -1,0 +1,1 @@
+In 1.0 week, an airplane pilot flew 1134.0 miles on Tuesday and 1475.0 miles on Thursday.  He doesn't fly on Friday.  How many miles does the pilot average a day over a 3-day period?

@@ -1,0 +1,5 @@
+One piece is 2 feet longer than the other.
+
+V1=2+V2
+
+[One (piece )][is ][2 (feet )][longer ][than ][the other ]. 

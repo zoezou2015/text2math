@@ -1,0 +1,5 @@
+Premium costs 0.22 dollars more per gallon than regular.
+
+V1=0.22+V2
+
+[(Premium )][costs ][0.22 (dollars )][more ][per ][(gallon )][than ][regular ]. 

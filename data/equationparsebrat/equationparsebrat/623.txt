@@ -1,0 +1,5 @@
+The degree measure of angle C is 30 degrees larger than the degree measure of angle A.
+
+V1=30+V2
+
+[The (degree )(measure )][of ][(angle )(C )][is ][30 (degrees )][larger ][than ][the (degree )(measure )][of ][(angle )A ]. 

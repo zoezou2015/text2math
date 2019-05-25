@@ -1,0 +1,5 @@
+The number of boys in eighth grade is 16 less than twice the number of girls.
+
+V1=(2*V2)-16
+
+[The (number )][of ][(boys )][in ][eighth (grade )][is ][16 ][less ][than ][twice the (number )][of ][(girls )]. 

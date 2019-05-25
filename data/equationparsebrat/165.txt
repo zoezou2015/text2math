@@ -1,0 +1,5 @@
+The price of the garden table is 2 times the price of the bench.
+
+V1=2*V2
+
+[The (price )][of ][the (garden )(table )][is ][2 (times )][the (price )][of ][the (bench )]. 

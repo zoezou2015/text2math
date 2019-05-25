@@ -1,0 +1,5 @@
+In college there are 15 times as many students as professors.
+
+V1/15=V2
+
+[In ][(college )there ][are ][15 (times )][as ][many (students )][as ][(professors )]. 

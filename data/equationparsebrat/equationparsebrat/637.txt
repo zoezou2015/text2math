@@ -1,0 +1,5 @@
+The second of two complementary angles is 57 degrees larger than 3 times the first angle.
+
+V1=57+(3*V2)
+
+[The second ][of ][two complementary (angles )][is ][57 (degrees )larger than 2 (times )][the first (angle )]. 

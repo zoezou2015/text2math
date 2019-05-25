@@ -1,0 +1,5 @@
+0.40 of one part exceeds 0.625 of the other part by 10.
+
+((0.4*V1)-(0.625*V2))=10
+
+[0.40 ][of ][one (part )][exceeds ][0.625 ][of ][the other (part )][by ][10 ]. 

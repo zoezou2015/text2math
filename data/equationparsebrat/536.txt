@@ -1,0 +1,5 @@
+Eleven less than seven times a number is five more than six times the number.
+
+(7*V1)-11=(6*V1)+5
+
+[Eleven less than seven (times )][a (number )][is ][five ][more ][than ][six (times )][the (number )]. 

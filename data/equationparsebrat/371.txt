@@ -1,0 +1,5 @@
+They won 36 more than they lost.
+
+V1=36+V2
+
+[They ][won ][36 more ][than ][they ][lost ]. 

@@ -1,0 +1,5 @@
+The sum of 20 and a number is 30.
+
+20+V1=30
+
+[The (sum )][of ][20 ]and [a (number )][is ][30 ]. 

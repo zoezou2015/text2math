@@ -1,0 +1,5 @@
+Each week he earns 190 dollars plus commission equal to 4 % of his sales.
+
+V1=190+(0.04*V2)
+
+[Each (week )][he ][earns ][190 (dollars )][plus (commission )][equal ][to ][4 (% )][of ][his (sales )]. 

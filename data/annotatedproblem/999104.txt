@@ -1,0 +1,5 @@
+Australia's S&P/ASX up 0.5% at 5,943.60 early.
+
+V1+(0.005*V1)=5943.60
+
+[(Australia )]['s (S )& (P )(/ )(ASX )][up ][0.5 (% )][at ][5,943.60 ][early ]. 

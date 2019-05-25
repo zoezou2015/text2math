@@ -1,0 +1,5 @@
+The number of girls is 0.4 of the number of boys.
+
+V1=0.4*V2
+
+[The (number )][of ][(girls )][is ][0.4 ][of ][the (number )][of ][(boys )]. 

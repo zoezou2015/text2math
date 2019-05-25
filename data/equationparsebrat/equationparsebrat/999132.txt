@@ -1,0 +1,5 @@
+Hong Kong H-share index down 0.1% at 11,919.48.
+
+V1-(0.001*V1)=11919.48
+
+[(Hong )(Kong )(H-share )(index )][down ][0.1 (% )][at ][11,919.48 ]. 

@@ -1,0 +1,5 @@
+A bottle of wine without a cork costs 2.00 dollars more than the cork.
+
+V1=2+V2
+
+[A (bottle )][of ][(wine )][without ][a (cork )][costs ][2.00 (dollars )][more ][than ][the (cork )]. 

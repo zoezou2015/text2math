@@ -1,0 +1,5 @@
+Mackenzie bought 3 new compact disks and 8 used compact disks for 133.89 dollars.
+
+((3*V1)+(8*V2))=133.89
+
+[(Mackenzie )][bought ][3 new compact (disks )]and [8 ][used ][compact (disks )][for ][133.89 (dollars )]. 

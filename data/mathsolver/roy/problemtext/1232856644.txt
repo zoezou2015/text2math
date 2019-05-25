@@ -1,0 +1,1 @@
+3.0 eggs are divided between 2.0 boxes. How many eggs fit in each box ?

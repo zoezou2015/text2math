@@ -1,0 +1,5 @@
+The cost of 12 gallons of regular gasoline and 18 gallons of premium gasoline is 44.46 dollars.
+
+((12*V1)+(18*V2))=44.46
+
+[The (cost )][of ][12 (gallons )][of ][regular (gasoline )]and [18 (gallons )][of ][(premium )(gasoline )][is ][44.46 (dollars )]. 

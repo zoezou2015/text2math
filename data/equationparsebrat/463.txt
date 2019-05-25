@@ -1,0 +1,5 @@
+Mrs.Martin bought 3 cups of coffee and 2 bagels and spent 12.75 dollars.
+
+((3*V1)+(2*V2))=12.75
+
+[(Mrs.Martin )][bought ][3 (cups )][of ][(coffee )]and [2 (bagels )]and [spent ][12.75 (dollars )]. 

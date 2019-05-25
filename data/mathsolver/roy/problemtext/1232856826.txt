@@ -1,0 +1,1 @@
+There are 84.0 leaves. There are 139.0 ladybugs on the leaves. What is the average number of ladybugs on each leaf?

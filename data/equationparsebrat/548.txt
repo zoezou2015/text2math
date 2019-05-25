@@ -1,0 +1,5 @@
+The land cost 4 times as much as the cabin.
+
+V1=4*V2
+
+[The (land )][(cost )][4 (times )][as much ][as ][the (cabin )]. 

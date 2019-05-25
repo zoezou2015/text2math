@@ -1,0 +1,5 @@
+The sum of 38 and twice a number is 124.
+
+38+(2*V1)=124
+
+[The (sum )][of ][38 ]and [twice ][a (number )][is ][124 ]. 

@@ -1,0 +1,1 @@
+A spaceship traveled 0.5 light-year from Earth to Planet X and 0.1 light-year from Planet X to Planet Y. Then it traveled 0.1 light-year from Planet Y back to Earth . How many light-years did the spaceship travel in all ?

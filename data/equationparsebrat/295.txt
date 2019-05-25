@@ -1,0 +1,5 @@
+7 times the first part added to 5 times the second part makes 146.
+
+((7*V1)+(5*V2))=146
+
+[7 (times )][the first (part )][added ][to ][5 (times )][the second (part )][makes ][146 ]. 

@@ -1,0 +1,5 @@
+The Lakers scored 43 points on a combination of 22 point baskets and 3 point baskets. 
+
+((22*V1)+(3*V2))=43
+
+[The (Lakers )][scored ][43 (points )][on ][a (combination )][of ][22 (point )(baskets )]and [3 (point )(baskets )]. 

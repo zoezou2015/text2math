@@ -1,0 +1,1 @@
+There are 397 butterflies. Each butterfly has 12 black dots and 17 yellow dots. How many black dots are there in all?

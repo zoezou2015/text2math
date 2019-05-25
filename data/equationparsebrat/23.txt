@@ -1,0 +1,5 @@
+The Kings won two less than three times as many games as they lost.
+
+V1=(3*V2)-2
+
+[The (Kings )][won ][two less than three (times )as many (games )][as ][they ][lost ]. 

@@ -1,0 +1,1 @@
+256 students are going to the zoo. They have to be divided into groups so that each teacher has one group. There are 8 teachers. How many  students will be in each group?

@@ -1,0 +1,1 @@
+256.0 students are going to the zoo. They have to be divided into groups so that each teacher has 1.0 group. There are 8.0 teachers. How many  students will be in each group?

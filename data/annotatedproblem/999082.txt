@@ -1,0 +1,5 @@
+Four-week claims average declines 6,500 to 283,250.
+
+V1=283250-6500
+
+[(Four-week )][claims ][average (declines )][6,500 to 283,250 ]. 

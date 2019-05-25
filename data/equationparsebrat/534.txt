@@ -1,0 +1,5 @@
+Sixty more than nine times a number is the same as two less than ten times the number.
+
+60+(9*V1)=(10*V1)-2
+
+[Sixty more than nine (times )][a (number )][is ][the same ][as ][two less ][than ][ten (times )][the (number )]. 

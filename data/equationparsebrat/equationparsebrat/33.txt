@@ -1,0 +1,5 @@
+A semi truck travels on a paved road for 2 hours at an average speed of 20 miles per hour faster than it travels on a dirt road.
+
+V1=20+V2
+
+[A (semi )(truck )][travels ][on ][a paved (road )][for ][2 (hours )][at ][an average (speed )][of ][20 (miles )][per ][(hour )][faster ][than ][it ][travels ][on ][a (dirt )(road )]. 

@@ -1,0 +1,5 @@
+France's CAC opens 0.1% higher at 4,888.30.
+
+V1+(0.001*V1)=4888.30
+
+[(France )]['s (CAC )][opens ][0.1 (% )][higher ][at ][4,888.30 ]. 

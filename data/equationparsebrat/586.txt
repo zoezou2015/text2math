@@ -1,0 +1,5 @@
+The sum of Clyde and Wendy’s age is 64. 
+
+V1+V2=64
+
+[The (sum )][of ][(Clyde )and (Wendy )(’ )][s ][(age )][is ][64 ]. 

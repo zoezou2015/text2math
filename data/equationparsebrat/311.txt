@@ -1,0 +1,5 @@
+3 footballs and 4 soccer balls cost 155 dollars.
+
+((3*V1)+(4*V2))=155
+
+[3 (footballs )and 4 (soccer )(balls )(cost )][155 (dollars )]. 

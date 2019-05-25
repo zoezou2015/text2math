@@ -1,0 +1,5 @@
+Three times a number is the same as the difference of twice the number and seven.
+
+3*V1=(2*V1)-7
+
+[Three (times )][a (number )][is ][the same ][as ][the (difference )][of ][twice the (number )and seven ]. 

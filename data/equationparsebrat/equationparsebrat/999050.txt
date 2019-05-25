@@ -1,0 +1,5 @@
+Target cuts free-shipping minimum order to $25 from $50.
+
+V1=50-25
+
+[(Target )(cuts )][free-shipping ][minimum (order )][to ][($25 )][from ][($50 )]. 

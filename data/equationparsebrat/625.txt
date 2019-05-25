@@ -1,0 +1,5 @@
+The degree measure of angle B is 4 times the degree measure of angle A.
+
+V1=4*V2
+
+[The (degree )(measure )][of ][(angle )][(B )][is ][4 (times )][the (degree )(measure )][of ][(angle )A ]. 

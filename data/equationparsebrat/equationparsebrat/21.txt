@@ -1,0 +1,5 @@
+The first number is 43 less than twice the second number.
+
+V1=(2*V2)-43
+
+[The first (number )][is ][43 ][less ][than ][twice the second (number )]. 

@@ -1,0 +1,5 @@
+One is 4 times as large as the other.
+
+V1=4*V2
+
+[One ][is ][4 (times )][as large ][as ][the other ]. 

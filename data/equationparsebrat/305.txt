@@ -1,0 +1,5 @@
+The second is 10 more than 3 times the first.
+
+V1=10+(3*V2)
+
+[The second ][is ][10 more than 3 (times )][the first ]. 

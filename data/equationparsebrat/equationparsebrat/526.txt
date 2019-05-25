@@ -1,0 +1,5 @@
+When five is added to three more than a certain number, the result is 19.
+
+5+(3+V1)=19
+
+[When ][five ][is added ][to ][three ][more ][than ][a certain (number )], [the (result )][is ][19 ]. 

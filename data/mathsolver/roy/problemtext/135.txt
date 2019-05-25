@@ -1,0 +1,1 @@
+A car company produced 3884.0 cars in North America and 2871.0 cars in Europe . How many cars is that in all ?

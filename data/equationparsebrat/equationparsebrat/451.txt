@@ -1,0 +1,5 @@
+One week she works in the office twice as long as she drives the tractor.
+
+V1=2*V2
+
+[One (week )][she ][works ][in ][the (office )][twice as long ][as ][she ][drives ][the (tractor )]. 

@@ -1,0 +1,5 @@
+For a special event at the TCR spring fest , the cost of 3 adult tickets and 4 student tickets was 84 dollars.
+
+((3*V1)+(4*V2))=84
+
+[For ][a special (event )][at ][the (TCR )(spring )fest ], [the (cost )][of ][3 (adult )(tickets )]and [4 (student )(tickets )][was ][84 (dollars )]. 

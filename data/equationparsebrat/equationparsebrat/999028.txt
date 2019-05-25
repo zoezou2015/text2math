@@ -1,0 +1,5 @@
+Ross Stores announces 18% dividend increase to 23 cents per share.
+
+V1+(0.18*V1)=0.23
+
+[(Ross )(Stores )][announces ][18 (% )(dividend )(increase )][to ][23 (cents )][per ][(share )]. 

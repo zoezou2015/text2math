@@ -1,0 +1,1 @@
+There are 24.0 bicycles and 14.0 tricycles in the storage area at Danny's apartment building. Each bicycle has 2.0 wheels, and each tricycle has 3.0 wheels. How many wheels are there in all?

@@ -1,0 +1,1 @@
+2 times the larger integer is 10 less than 5 times the smaller integer

@@ -1,0 +1,5 @@
+One number is 11 more than 3 times another number.
+
+V1=11+(3*V2)
+
+[One (number )][is ][11 ][more ][than ][3 (times )][another (number )]. 

@@ -1,0 +1,1 @@
+A car company produced 3884.0 cars in North America but 2871.0 cars in Europe were recalled. How many cars were successfully produced?

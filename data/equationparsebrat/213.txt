@@ -1,0 +1,5 @@
+One number is 8 more than the other.
+
+V1=8+V2
+
+[One (number )][is ][8 ][more ][than ][the other ]. 

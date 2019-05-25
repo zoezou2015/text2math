@@ -1,0 +1,1 @@
+Twice the larger number exceeds 3 times the smaller number by 16

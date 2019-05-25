@@ -1,0 +1,5 @@
+Cisco Systems' stock price target raised to $30 from $28 at Raymond James.
+
+V1=30-28
+
+[(Cisco )(Systems )][' (stock )(price )(target )][raised ][to ][($30 )][from ][($28 )][at ][(Raymond )(James )]. 

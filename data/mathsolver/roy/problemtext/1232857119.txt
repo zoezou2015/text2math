@@ -1,0 +1,1 @@
+There are 65.0 students trying out for the school's trivia teams in each of 8.0 different schools. If 17.0 of them didn't get picked for each team, how many total students make the teams?

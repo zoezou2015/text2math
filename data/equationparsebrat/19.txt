@@ -1,0 +1,5 @@
+The sum of 2 numbers is 50.
+
+V1+V2=50
+
+[The (sum )][of ][2 (numbers )][is ][50 ]. 

@@ -1,0 +1,5 @@
+The number of student tickets sold was two times the number of adult tickets sold.
+
+V1=2*V2
+
+[The (number )][of ][(student )(tickets )][sold ][was ][two (times )][the (number )][of ][(adult )(tickets )][sold ]. 

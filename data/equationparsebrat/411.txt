@@ -1,0 +1,5 @@
+3 times one of the numbers is 11 less than 5 times the other.
+
+3*V1=(5*V2)-11
+
+[3 (times )one ][of ][the (numbers )][is ][11 ][less ][than ][5 (times )][the other ]. 

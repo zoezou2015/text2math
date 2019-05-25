@@ -1,0 +1,5 @@
+A rancher raises 5 times as many cows as horses.
+
+V1/5=V2
+
+[A (rancher )][raises ][5 (times )as many (cows )][as ][(horses )]. 

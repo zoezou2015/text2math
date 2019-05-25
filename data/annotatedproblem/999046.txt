@@ -1,0 +1,5 @@
+Lab Corp of America stock price target raised to $140 from $113 at Credit Suisse.
+
+V1=140-113
+
+[(Lab )(Corp )][of ][(America )][(stock )(price )(target )][raised ][to ][($140 )][from ][($113 )][at ][(Credit )(Suisse )]. 

@@ -1,0 +1,5 @@
+If the wind was 0.5 times as strong and the bird flies against it , it could make only 30 kilometers per hour.
+
+V1-(0.5*V2)=30
+
+[If ][the (wind )][was ][0.5 (times )][as ][strong ]and [the (bird )][flies ][against ][it ], [it ][could make ][only 30 (kilometers )][per ][(hour )]. 

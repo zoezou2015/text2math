@@ -1,0 +1,5 @@
+3 Pairs of jeans and 6 shirts costs 104.25 dollars.
+
+((3*V1)+(6*V2))=104.25
+
+[3 (Pairs )][of ][(jeans )]and [6 (shirts )][costs ][104.25 (dollars )]. 

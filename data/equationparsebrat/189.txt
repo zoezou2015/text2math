@@ -1,0 +1,5 @@
+The sum of the two numbers is 70.
+
+V1+V2=70
+
+[The (sum )][of ][the two (numbers )][is ][70 ]. 

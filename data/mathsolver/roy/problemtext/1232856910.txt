@@ -1,0 +1,1 @@
+A fruit farm packs oranges in boxes that hold 10.0 each. If they pack 2650.0 boxes in 1.0 day, how many oranges do they have?

@@ -1,0 +1,1 @@
+Adam bought 9.0 packages of cat food and 7.0 packages of dog food. Each package of cat food contained 10.0 cans, and each package of dog food contained 5.0 cans. How many more cans of cat food than dog food did Adam buy?

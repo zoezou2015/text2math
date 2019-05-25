@@ -1,0 +1,5 @@
+The difference between 0.75 of a line and 0.4 of the same line is 28 centimeters.
+
+((0.75*V1)-(0.4*V1))=28
+
+[The (difference )][between ][0.75 ][of ][a (line )and 0.4 ][of ][the same (line )][is ][28 (centimeters )]. 

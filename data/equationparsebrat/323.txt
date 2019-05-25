@@ -1,0 +1,5 @@
+1 number is 3 less than twice another number.
+
+V1=(2*V2)-3
+
+[1 (number )][is ][3 ][less ][than ][twice another (number )]. 

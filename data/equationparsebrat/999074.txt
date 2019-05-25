@@ -1,0 +1,5 @@
+T.Rowe Price raises regular quarterly dividend by 18% to 52 cents a share.
+
+V1+(0.18*V1)=0.52
+
+[(T.Rowe )(Price )][raises ][regular quarterly (dividend )][by ][18 (% )]to [52 (cents )][a (share )]. 

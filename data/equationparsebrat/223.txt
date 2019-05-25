@@ -1,0 +1,5 @@
+The sum of girls and boys is 41.
+
+V1+V2=41
+
+[The (sum )][of ][(girls )]and [(boys )][is ][41 ]. 

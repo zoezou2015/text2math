@@ -1,0 +1,5 @@
+4 apples and 2 oranges equals 1 dollars.
+
+((4*V1)+(2*V2))=1
+
+[4 (apples )]and [2 (oranges )][equals ][1 (dollars )]. 

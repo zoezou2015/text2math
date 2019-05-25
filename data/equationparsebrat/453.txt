@@ -1,0 +1,5 @@
+The world 's oldest bride was 19 years older than her groom.
+
+V1=19+V2
+
+[The (world )]['s oldest (bride )][was ][19 (years )][older ][than ][her ][(groom )]. 

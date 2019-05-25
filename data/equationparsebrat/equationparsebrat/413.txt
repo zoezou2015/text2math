@@ -1,0 +1,5 @@
+7 less than 4 times a number equals 13.
+
+(4*V1)-7=13
+
+[7 less than 4 (times )][a (number )][equals ][13 ]. 

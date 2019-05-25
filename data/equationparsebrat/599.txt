@@ -1,0 +1,5 @@
+The second angle is 6 degrees larger than 2 times the measure of the first angle.
+
+V1=6+(2*V2)
+
+[The second (angle )][is ][6 (degrees )larger than 2 (times )][the (measure )][of ][the first (angle )]. 

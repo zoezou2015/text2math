@@ -1,0 +1,5 @@
+6 ducks and 5 pigs cost 213 dollars.
+
+((6*V1)+(5*V2))=213
+
+[6 (ducks )]and [5 (pigs )][cost ][213 (dollars )]. 

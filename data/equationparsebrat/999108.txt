@@ -1,0 +1,5 @@
+Priceline's stock price target cut to $1,230 from $1,300 at JMP Securities.
+
+V1=1300-1230
+
+[Priceline 's (stock )(price )(target )(cut )][to ][($1,230 )][from ][($1,300 )][at ][(JMP )(Securities )]. 

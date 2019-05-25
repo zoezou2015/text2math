@@ -1,0 +1,5 @@
+The second pieces is 3 times as long as the first piece.
+
+V1=3*V2
+
+[The second (pieces )][is ][3 (times )][as long ][as ][the first (piece )]. 

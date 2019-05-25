@@ -1,0 +1,5 @@
+The third piece is 5 feet longer than the first piece
+
+V1=5+V2
+
+[The third (piece )][is ][5 (feet )][longer ][than ][the first (piece )]

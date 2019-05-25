@@ -1,0 +1,5 @@
+Jordan 's salary is 1250 dollars a month plus a 5 % commission on all of his sales.
+
+V1=1250+(0.05*V2)
+
+[(Jordan )]['s (salary )][is ][1250 (dollars )][a (month )][plus a 5 (% )(commission )][on ][all ][of ][his (sales )]. 

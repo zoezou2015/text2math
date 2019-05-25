@@ -1,0 +1,5 @@
+After several days, he is four times as far from the beginning of the trail as he is from the end.
+
+V1/4=V2
+
+[After ][several (days )], [he ][is ][four (times )][as far ][from ][the (beginning )][of ][the (trail )][as ][he ][is ][from ][the (end )]. 

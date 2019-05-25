@@ -1,0 +1,5 @@
+The sum of two numbers is 18. 
+
+V1+V2=18
+
+[The (sum )][of ][two (numbers )][is ][18 ]. 

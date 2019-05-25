@@ -1,0 +1,1 @@
+A ship has 8723.0 tons of cargo.  At the Bahamas, sailors unloaded 5973.0 tons of cargo.  How many tons of cargo is left on the ship?

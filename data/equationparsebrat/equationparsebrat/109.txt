@@ -1,0 +1,5 @@
+Sunshine Car Rentals rents a basic car at a daily rate of 17.99 dollars plus 0.18 per mile.
+
+V1=17.99+(0.18*V2)
+
+[(Sunshine )(Car )][Rentals ][(rents )][a basic (car )][at ][a daily (rate )][of ][17.99 (dollars )]plus [0.18 ][per ][(mile )]. 

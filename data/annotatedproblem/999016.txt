@@ -1,0 +1,5 @@
+FedEx stock price target raised to $203 from $177 at Credit Suisse.
+
+V1=203-177
+
+[FedEx (stock )(price )(target )][raised ][to ][($203 )][from ][($177 )][at ][(Credit )(Suisse )]. 

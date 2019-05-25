@@ -1,0 +1,5 @@
+Aaron had 7 times as many sheep as Beth.
+
+V1=7*V2
+
+[(Aaron )][had ][7 (times )][as ][many (sheep )][as ][(Beth )]. 

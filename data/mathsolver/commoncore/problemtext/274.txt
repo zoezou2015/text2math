@@ -1,0 +1,1 @@
+A pet store has 4 bird cages. If each cage has 8 parrots and 2 parakeets in it, how many birds does the pet store have total?

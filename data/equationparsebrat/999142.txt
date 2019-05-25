@@ -1,0 +1,5 @@
+Cisco Systems' stock price target raised to $31 from $28 at Sterne Agee.
+
+V1=31-28
+
+[(Cisco )(Systems )][' (stock )(price )(target )][raised ][to ][($31 )][from ][($28 )][at ][(Sterne )(Agee )]. 

@@ -1,0 +1,5 @@
+April gold up $14.90, to $1215.10 an ounce.
+
+V1=1215.10-14.90
+
+[(April )(gold )][up ][($14.90 )], [to ][($1215.10 )][an (ounce )]. 

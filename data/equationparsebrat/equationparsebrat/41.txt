@@ -1,0 +1,5 @@
+A bank teller has 54 5-dollar and 20-dollar bills in her cash drawer.
+
+V1+V2=54
+
+[A (bank )(teller )][has ][54 5-dollar and 20-dollar (bills )][in ][her (cash )(drawer )]. 

@@ -1,0 +1,5 @@
+Kevin bought 3 muffins and a bottle of juice that cost 1.45 dollars.
+
+V1=(3*V2)+1.45
+
+[(Kevin )][bought ][3 (muffins )]and [a (bottle )][of ][(juice )][that ][(cost )][1.45 (dollars )]. 

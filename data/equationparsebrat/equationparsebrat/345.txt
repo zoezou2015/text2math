@@ -1,0 +1,5 @@
+36 more than the product of three and x is the same as 48.
+
+36+(3*V1)=48
+
+[36 more ][than ][the (product )][of ][three ]and [x ][is ][the same ][as ][48 ]. 

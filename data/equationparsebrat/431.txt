@@ -1,0 +1,5 @@
+Arthur bought 3 hamburgers and 4 hot dogs for 10 dollars.
+
+((3*V1)+(4*V2))=10
+
+[(Arthur )][bought ][3 (hamburgers )]and [4 hot (dogs )][for ][10 (dollars )]. 

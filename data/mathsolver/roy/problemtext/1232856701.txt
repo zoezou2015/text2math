@@ -1,0 +1,1 @@
+There are 6.0 birds and 3.0 nests. How many bird-related objects are there?

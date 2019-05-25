@@ -1,0 +1,5 @@
+She can buy four roses and five daisies for 7.90 dollars.
+
+((4*V1)+(5*V2))=7.90
+
+[She ][can buy ][four (roses )]and [five (daisies )][for ][7.90 (dollars )]. 

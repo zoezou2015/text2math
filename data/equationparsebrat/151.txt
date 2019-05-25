@@ -1,0 +1,5 @@
+City Rentals rent an intermediate-size car for 18.95 dollars plus 0.21 per mile.
+
+V1=18.95+(0.21*V2)
+
+[(City )(Rentals )][(rent )][an intermediate-size (car )][for ][18.95 (dollars )]plus [0.21 ][per ][(mile )]. 

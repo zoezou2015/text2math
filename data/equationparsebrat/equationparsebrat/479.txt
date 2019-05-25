@@ -1,0 +1,5 @@
+The total number of Democrats and Republicans in the House of Representatives was 434.
+
+V1+V2=434
+
+[The total (number )][of ][(Democrats )and (Republicans )][in ][the (House )][of ][(Representatives )][was ][434 ]. 

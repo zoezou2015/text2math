@@ -1,0 +1,5 @@
+Tickets for balcony seats will cost 15 dollars less than tickets for main-level seats.
+
+V1=V2-15
+
+[(Tickets )][for ][balcony (seats )][will cost ][15 (dollars )][less ][than ][(tickets )][for ][main-level (seats )]. 

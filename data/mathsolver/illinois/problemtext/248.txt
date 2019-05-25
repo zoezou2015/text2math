@@ -1,0 +1,1 @@
+Each child has 2 candies. If there are 9 children, how many candies are there in total?

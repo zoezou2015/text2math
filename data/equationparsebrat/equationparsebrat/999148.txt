@@ -1,0 +1,5 @@
+Newell Rubbermaid raises quarterly dividend 12% to 19 cents a share.
+
+V1+(0.12*V1)=0.19
+
+[(Newell )(Rubbermaid )][raises ][quarterly (dividend )][12 (% )]to [19 (cents )][a (share )]. 

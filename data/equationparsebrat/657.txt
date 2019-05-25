@@ -1,0 +1,5 @@
+Alice inherits 40,000 dollars and decides to invest the money in two accounts, part in a certificate of deposit that pays 3% interest per year, and the rest in a mutual fund that pays 6% per year. 
+
+V1+V2=40000
+
+[(Alice )(inherits )40,000 (dollars )]and [decides to invest ][the (money )][in ][two (accounts )], [(part )][in ][a (certificate )][of ][(deposit )][that ][pays ][3 (% )(interest )][per ][(year )], and [the (rest )][in ][a mutual (fund )][that ][pays ][6 (% )][per ][(year )]. 

@@ -1,0 +1,5 @@
+Hormel Foods total net sales up 6.8% to $2390000000.
+
+V1+(0.068*V1)=2390000000
+
+[(Hormel )(Foods )total (net )(sales )][up ][6.8 (% )][to ][($2.39 )billion ]. 

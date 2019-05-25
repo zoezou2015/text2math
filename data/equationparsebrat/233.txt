@@ -1,0 +1,5 @@
+She sold 27 more cars than trucks. 
+
+V1=V2-27
+
+[She ][sold ][27 more (cars )][than ][(trucks )]. 

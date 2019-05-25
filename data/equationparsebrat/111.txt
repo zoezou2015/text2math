@@ -1,0 +1,5 @@
+City Rentals rents a basic car at 18.95 dollars plus 0.16 per mile.
+
+V1=18.95+(0.16*V2)
+
+[(City )][Rentals ][(rents )][a basic (car )][at ][18.95 (dollars )]plus [0.16 ][per ][(mile )]. 

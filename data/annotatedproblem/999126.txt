@@ -1,0 +1,5 @@
+Germany's DAX opens 0.7% lower at 10,842.
+
+V1+(0.007*V1)=10842
+
+[(Germany )]['s (DAX )][opens ][0.7 (% )][lower ][at ][10,842 ]. 

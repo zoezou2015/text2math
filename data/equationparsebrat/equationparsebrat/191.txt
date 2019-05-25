@@ -1,0 +1,5 @@
+A garden table and a bench cost 750 combined.
+
+V1+V2=750
+
+[A (garden )(table )]and [a (bench )(cost )][750 combined ]. 

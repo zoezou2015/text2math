@@ -1,0 +1,5 @@
+They won 9 more games than they tied.
+
+V1=9+V2
+
+[They ][won ][9 more (games )][than ][they ][tied ]. 

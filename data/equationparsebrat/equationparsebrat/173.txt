@@ -1,0 +1,5 @@
+One piece is to be 3 foot longer than twice the length of the shorter piece.
+
+V1=3+(2*V2)
+
+[One (piece )][is to be ][1 (foot )][longer ][than ][twice the (length )][of ][the shorter (piece )]. 

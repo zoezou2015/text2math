@@ -1,0 +1,5 @@
+David bought 3 hamburgers and 2 servings of french fries at Diane 's Drive Up for 6.25 dollars.
+
+((3*V1)+(2*V2))=6.25
+
+[(David )][bought ][3 (hamburgers )]and [2 (servings )][of ][french (fries )][at ][(Diane )]['s (Drive )][Up ][for ][6.25 (dollars )]. 

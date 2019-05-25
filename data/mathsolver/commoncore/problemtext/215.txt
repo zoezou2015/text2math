@@ -1,0 +1,1 @@
+While playing a trivia game, Adam answered 5 questions correct in the first half and 5 questions correct in the second half. If each question was worth 5 points, what was his final score?

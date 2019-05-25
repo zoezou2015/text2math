@@ -1,0 +1,5 @@
+Safety Rent-a-Car rents an intermediate-size car at a daily rate of 21.95 dollars plus 0.19 per mile.
+
+V1=21.95+(0.19*V2)
+
+[(Safety )(Rent-a-Car )][rents ][an intermediate-size (car )][at ][a daily (rate )][of ][21.95 (dollars )]plus [0.19 ][per ][(mile )]. 

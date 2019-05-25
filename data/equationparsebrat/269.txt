@@ -1,0 +1,5 @@
+Sara has already saved 4100 dollars , and she plans to save 10 dollars a week.
+
+V1=4100+(10*V2)
+
+[(Sara )][has already saved ][4100 (dollars )], and [she ][plans to save ][10 (dollars )][a (week )]. 

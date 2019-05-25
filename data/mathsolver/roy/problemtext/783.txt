@@ -1,0 +1,1 @@
+There were 150.0 book shelves. Each book shelf had 15.0 books. How many books were on the shelves?

@@ -1,0 +1,1 @@
+The greater of two numbers is 8 times the lesser

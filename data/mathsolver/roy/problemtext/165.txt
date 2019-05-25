@@ -1,0 +1,1 @@
+A treasure hunter discovered a buried treasure chest filled with a total of 5155.0 gems . 45.0 of the gems were diamonds , and the rest were rubies . How many of the gems were rubies ?

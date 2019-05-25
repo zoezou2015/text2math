@@ -1,0 +1,5 @@
+The cost of the first shipment which contained 10 identical sweaters and 20 identical jackets was 800 dollars.
+
+((10*V1)+(20*V2))=800
+
+[The (cost )][of ][the first (shipment )][which ][contained ][10 identical (sweaters )]and [20 identical (jackets )][was ][800 (dollars )]. 

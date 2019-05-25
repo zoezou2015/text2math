@@ -1,0 +1,5 @@
+With a tail wind , a jet flew 2000 miles in 4 hours.
+
+V1-V2=2000/4
+
+[With ][a (tail )(wind )], [a (jet )][flew ][2000 (miles )][in ][4 (hours )]. 

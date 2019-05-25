@@ -1,0 +1,5 @@
+The greater number exceeds twice the smaller number by 5.
+
+(V1-(2*V2))=5
+
+[The greater (number )][exceeds ][twice ][the smaller (number )][by ][5 ]. 

@@ -1,0 +1,5 @@
+There are twice as many dimes as nickels.
+
+V1/2=V2
+
+[There ][are ][twice ][as ][many (dimes )][as ][(nickels )]. 

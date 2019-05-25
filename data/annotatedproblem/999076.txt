@@ -1,0 +1,5 @@
+Coca-Cola raises dividend 8% to 33 cents a share.
+
+V1+(0.08*V1)=0.33
+
+[(Coca-Cola )][raises ][(dividend )][8 ][(% )to 33 (cents )][a (share )]. 

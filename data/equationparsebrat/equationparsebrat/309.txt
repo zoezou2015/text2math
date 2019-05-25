@@ -1,0 +1,5 @@
+If the product of 5 and a number is increased by 4 , the result is 19.
+
+(5*V1)+4=19
+
+[If ][the (product )][of ][5 ]and [a (number )][is increased ][by ][4 ], [the (result )][is ][19 ]. 

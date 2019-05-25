@@ -1,0 +1,5 @@
+She knows that for every 2 cans of tomato soup she sells , she will sell 4 cans of chili beans.
+
+V1/2=V2/4
+
+[She ][knows ][that ][for ][every 2 (cans )][of ][(tomato )(soup )][she ][sells ], [she ][will sell ][4 (cans )][of ][(chili )(beans )]. 

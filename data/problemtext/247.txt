@@ -1,0 +1,1 @@
+Think of a number , half it and the result is 9

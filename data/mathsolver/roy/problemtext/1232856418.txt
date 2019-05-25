@@ -1,0 +1,1 @@
+A restaurant served 6.0 cakes at dinner today but 5.0 were returned. The restaurant served 3.0 cakes successfully yesterday. How many cakes were sold successfully total?

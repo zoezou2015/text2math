@@ -1,0 +1,5 @@
+The Mcdonalds stock was 70 dollars more per share than the Ohio Art Company stock.
+
+V1=70+V2
+
+[The (Mcdonalds )(stock )][was ][70 (dollars )][more ][per ][(share )][than ][the (Ohio )(Art )(Company )(stock )]. 

@@ -1,0 +1,5 @@
+The tallest player is 9.5 inches taller than the shortest player. 
+
+V1=9.5+V2
+
+[The tallest (player )][is ][9.5 (inches )][taller ][than ][the shortest (player )]. 

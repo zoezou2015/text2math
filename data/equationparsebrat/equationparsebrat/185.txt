@@ -1,0 +1,5 @@
+A swim team has 5 times as many girls as boys.
+
+V1/5=V2
+
+[A swim (team )][has ][5 (times )as many (girls )][as ][(boys )]. 

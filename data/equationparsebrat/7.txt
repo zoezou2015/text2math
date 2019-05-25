@@ -1,0 +1,5 @@
+Your friend has 210 dollars and saves 5 dollars per week.
+
+V1=210+(5*V2)
+
+[Your (friend )][has ][210 (dollars )]and [saves ][5 (dollars )][per ][(week )]. 

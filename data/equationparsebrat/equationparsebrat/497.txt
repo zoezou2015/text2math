@@ -1,0 +1,5 @@
+One integer is twice another.
+
+V1=2*V2
+
+[One integer ][is ][twice another ]. 

@@ -1,0 +1,5 @@
+Two times the first number is one more than the second number.
+
+2*V1=1+V2
+
+[Two (times )][the first (number )][is ][one ][more ][than ][the second (number )]. 

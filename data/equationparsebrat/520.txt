@@ -1,0 +1,5 @@
+The number of dimes is 10 less than twice the number of nickels. 
+
+V1=(2*V2)-10
+
+[The (number )][of ][(dimes )][is ][10 ][less ][than ][twice the (number )][of ][(nickels )]. 

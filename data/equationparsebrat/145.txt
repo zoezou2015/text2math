@@ -1,0 +1,5 @@
+The washer costs 220 dollars more than the dryer.
+
+V1=220+V2
+
+[The (washer )][costs ][220 (dollars )][more ][than ][the (dryer )]. 

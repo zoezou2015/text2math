@@ -1,0 +1,1 @@
+Jeffrey wants to split a collection of bottle caps into groups of 2. Jeffrey has 12 bottle caps. How many groups will be created?

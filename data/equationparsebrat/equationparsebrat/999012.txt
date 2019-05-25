@@ -1,0 +1,5 @@
+Safe Bulkers stock price target cut to $4 from $12 at Credit Suisse.
+
+V1=12-4
+
+[(Safe )(Bulkers )(stock )(price )(target )(cut )][to ][($4 )][from ][($12 )][at ][(Credit )(Suisse )]. 

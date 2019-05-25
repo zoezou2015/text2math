@@ -1,0 +1,1 @@
+Last year at Newberg's airport, 14507.0 passengers landed.  Unfortunately, 213.0 passengers landed late.  In all, how many passengers landed in Newberg on time last year?

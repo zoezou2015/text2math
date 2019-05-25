@@ -1,0 +1,5 @@
+Seven more than two times a certain number is 181.
+
+7+(2*V1)=181
+
+[Seven more than two (times )][a certain (number )][is ][181 ]. 

@@ -1,0 +1,5 @@
+The sum of 2 numbers is 84.
+
+V1+V2=84
+
+[The (sum )][of ][2 (numbers )][is ][84 ]. 

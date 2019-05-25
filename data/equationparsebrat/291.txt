@@ -1,0 +1,5 @@
+Three times a number minus a second number is 20.
+
+(3*V1)-V2=20
+
+[Three (times )][a (number )]minus [a second (number )][is ][20 ]. 

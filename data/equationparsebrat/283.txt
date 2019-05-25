@@ -1,0 +1,5 @@
+The peach is more expensive than the apple by 60 cents.
+
+V1=V2+0.6
+
+[The (peach )][is ][more expensive ][than ][the (apple )][by ][60 (cents )]. 

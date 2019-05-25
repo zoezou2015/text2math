@@ -1,0 +1,5 @@
+Mrs. Lloyd plans on spending 370 dollars on 10 meals and 3 nights in a hotel.
+
+((10*V1)+(3*V2))=370
+
+[(Mrs. )(Lloyd )][plans ][on ][spending ][370 (dollars )][on ][10 (meals )]and [3 (nights )][in ][a (hotel )]. 

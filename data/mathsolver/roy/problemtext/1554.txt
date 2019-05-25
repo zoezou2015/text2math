@@ -1,0 +1,1 @@
+The mini library also has a section for the classics. If Jack has a collection of 6.0 classic authors, with each author having 33.0 books, how many books does he have in the classics section?

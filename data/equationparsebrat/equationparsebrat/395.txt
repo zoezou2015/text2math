@@ -1,0 +1,5 @@
+There were 11 more Republicans than Democrats.
+
+V1-11=V2
+
+[There ][were ][11 more (Republicans )][than ][(Democrats )]. 

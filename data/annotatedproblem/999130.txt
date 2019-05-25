@@ -1,0 +1,5 @@
+Stoxx Europe opens 0.2% lower at 375.63.
+
+V1-(0.002*V1)=375.63
+
+[(Stoxx )(Europe )][opens ][0.2 (% )][lower ][at ][375.63 ]. 

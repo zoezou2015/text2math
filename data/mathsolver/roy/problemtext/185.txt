@@ -1,0 +1,1 @@
+1.0 evening , a restaurant served a total of 0.5 loaf of wheat bread and 0.4 loaf of white bread . How many loaves were served in all ?

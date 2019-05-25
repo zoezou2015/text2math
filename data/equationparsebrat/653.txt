@@ -1,0 +1,5 @@
+The second of two supplementary angles is 114 degrees larger than 3 times the first angle.
+
+V1=114+(3*V2)
+
+[The second ][of ][two supplementary (angles )][is ][114 (degrees )larger than 2 (times )][the first (angle )]. 

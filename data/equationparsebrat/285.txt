@@ -1,0 +1,5 @@
+The difference between 3 times a number and 1 is the same as twice a number. 
+
+(3*V1)-1=2*V2
+
+[The (difference )][between ][3 (times )][a (number )]and [1 ][is ][the same ][as twice ][a (number )]. 

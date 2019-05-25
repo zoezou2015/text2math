@@ -1,0 +1,5 @@
+The second angle is 10 degrees larger than 4 times the measure of the first angle.
+
+V1=10+(4*V2)
+
+[The second (angle )][is ][10 (degrees )larger than 4 (times )][the (measure )][of ][the first (angle )]. 

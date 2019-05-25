@@ -1,0 +1,5 @@
+Flying with the wind , a bird was able to make 150 kilometers per hour.
+
+V1+V2=150
+
+[(Flying )][with ][the (wind )], [a (bird )][was ][able ][to make ][150 (kilometers )][per ][(hour )]. 

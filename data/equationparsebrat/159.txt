@@ -1,0 +1,5 @@
+Lakota bought 6 new compact disks and 2 used compact disks for 127.92 dollars.
+
+((6*V1)+(2*V2))=127.92
+
+[(Lakota )][bought ][6 new compact (disks )]and [2 ][used ][compact (disks )][for ][127.92 (dollars )]. 

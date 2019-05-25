@@ -1,0 +1,5 @@
+The larger number is 2 more than 3 times the smaller number.
+
+V1=(3*V2)+2
+
+[The larger (number )][is ][2 ][more ][than ][3 (times )][the smaller (number )]. 

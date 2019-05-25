@@ -1,0 +1,1 @@
+A restaurant served 9 pizzas but 6 were returned. How many pizzas were successfully served?

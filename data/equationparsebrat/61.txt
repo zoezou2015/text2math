@@ -1,0 +1,5 @@
+Juan is on his bike and travels 3 miles per hour faster than Peter who is on his skateboard. 
+
+V1=3+V2
+
+[(Juan )][is ][on ][his (bike )]and [travels ][3 (miles )][per ][(hour )][faster ][than ][(Peter )][who ][is ][on ][his (skateboard )]. 

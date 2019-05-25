@@ -1,0 +1,5 @@
+The number of baseball cards he has is five more than three times the number of football cards.
+
+V1=5+(3*V2)
+
+[The (number )][of ][(baseball )(cards )][he ][has ][is ][five ][more ][than ][three (times )][the (number )][of ][(football )(cards )]. 

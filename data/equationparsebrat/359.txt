@@ -1,0 +1,5 @@
+If 6 is subtracted from three times a number , the difference is twice the number.
+
+((3*V1)-6)=(2*V1)
+
+[If ][6 ][is subtracted ][from ][three (times )][a (number )], [the (difference )][is ][twice ][the (number )]. 

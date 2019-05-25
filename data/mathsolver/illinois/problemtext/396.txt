@@ -1,0 +1,1 @@
+Steven wants to split a collection of cards into groups of 6. Steven has 30 cards. How many groups will be created?

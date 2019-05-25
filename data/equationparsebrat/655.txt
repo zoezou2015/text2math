@@ -1,0 +1,5 @@
+Eileen inherits 20,000 dollars and decides to invest the money in two accounts, part in a certificate of deposit that pays 3% interest per year, and the rest in a mutual fund that pays 5% per year. 
+
+V1+V2=20000
+
+[Eileen (inherits )20,000 (dollars )]and [decides to invest ][the (money )][in ][two (accounts )], [(part )][in ][a (certificate )][of ][(deposit )][that ][pays ][3 (% )(interest )][per ][(year )], and [the (rest )][in ][a mutual (fund )][that ][pays ][5 (% )][per ][(year )]. 

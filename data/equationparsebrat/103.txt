@@ -1,0 +1,5 @@
+Finn bought 12 boxes of paper clips and 10 packages of index cards for a total cost of 61.70 dollars.
+
+((12*V1)+(10*V2))=61.70
+
+[(Finn )][bought ][12 (boxes )][of ][(paper )(clips )]and [10 (packages )][of ][(index )(cards )][for ][a total (cost )][of ][61.70 (dollars )]. 

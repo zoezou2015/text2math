@@ -1,0 +1,1 @@
+There are 6.0 red balls and 8.0 yellow balls. Each red ball is worth 6.0 points. The points value for yellow balls, is 18.0 yellow balls per point. How much points are earned with these balls?

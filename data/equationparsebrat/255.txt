@@ -1,0 +1,5 @@
+They craw toward each other at rates that differ by 6 centimeters per minute.
+
+V1-V2=6
+
+[They (craw )][toward ][each other ][at ][(rates )][that ][differ ][by ][6 (centimeters )][per ][(minute )]. 

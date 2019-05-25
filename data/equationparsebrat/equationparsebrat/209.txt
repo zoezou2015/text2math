@@ -1,0 +1,5 @@
+The difference of 3 times a number and 5 is 40.
+
+(3*V1)-5=40
+
+[The (difference )][of ][3 (times )][a (number )and 5 ][is ][40 ]. 

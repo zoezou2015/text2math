@@ -1,0 +1,5 @@
+The greater of two numbers is 8 times the lesser.
+
+V1=8*V2
+
+[The greater ][of ][two (numbers )][is ][8 (times )][the lesser ]. 

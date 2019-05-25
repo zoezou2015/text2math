@@ -1,0 +1,1 @@
+There are 25 students trying out for the school's trivia teams. If 15 of them didn't get picked for the team and the rest were put into 2 groups, how many students would be in each group?

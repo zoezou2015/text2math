@@ -1,0 +1,5 @@
+The amount invested in the certificate of deposit is 3,000 dollars more than 8 times the amount invested in the mutual fund.
+
+V1=3000+(8*V2)
+
+[The (amount )][invested ][in ][the (certificate )][of ][(deposit )][is ][3,000 (dollars )][more ][than ][8 (times )][the (amount )][invested ][in ][the mutual (fund )]. 

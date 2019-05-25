@@ -1,0 +1,12 @@
+arity = 2
+EQU
+ADD
+SUB
+SUB_R
+MUL
+DVI
+DVI_R
+
+arity = 0
+NUM
+VAR

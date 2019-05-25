@@ -1,0 +1,5 @@
+For his long distance phone service Milan pays a 2 dollars monthly fee plus 12 cents per minute.
+
+V1=2+(0.12*V2)
+
+[For ][his long (distance )(phone )(service )(Milan )][pays ][a 2 (dollars )][monthly ][(fee )][plus 12 (cents )][per ][(minute )]. 

@@ -1,0 +1,1 @@
+There is a jar with 3409.0 pieces of candy.  There are also 145.0 secret eggs with a prize in them.  How many items in total are in the jar?

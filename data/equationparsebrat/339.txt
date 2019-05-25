@@ -1,0 +1,5 @@
+The price of the shirt is 7.43 dollars less than the sweater.
+
+V1=V2-7.43
+
+[The (price )][of ][the (shirt )][is ][7.43 (dollars )][less ][than ][the (sweater )]. 

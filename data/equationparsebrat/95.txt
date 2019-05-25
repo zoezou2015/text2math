@@ -1,0 +1,5 @@
+The second number is 2 less than the first.
+
+V1=V2-2
+
+[The second (number )][is ][2 ][less ][than ][the first ]. 

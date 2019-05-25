@@ -1,0 +1,5 @@
+Chubb's stock price target raised to $103 from $89 at Citigroup.
+
+V1=103-89
+
+[(Chubb )]['s (stock )(price )(target )][raised ][to ][($103 )][from ][($89 )][at ][(Citigroup )]. 

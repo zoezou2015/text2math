@@ -1,0 +1,5 @@
+The larger of two numbers is 23 less than thrice the smaller.
+
+V1=(3*V2)-23
+
+[The larger ][of ][two (numbers )][is ][23 ][less ][than ][twice the smaller ]. 

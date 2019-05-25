@@ -1,0 +1,5 @@
+The automobile from the east travels at 10 kilometers faster than the automobile from the west.
+
+V1=10+V2
+
+[The (automobile )][from ][the east (travels )][at ][10 (kilometers )][faster ][than ][the (automobile )][from ][the (west )]. 

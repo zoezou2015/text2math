@@ -1,0 +1,5 @@
+Baidu's stock price target cut to $230 from $280 at Oppenheimer.
+
+V1=280-230
+
+[(Baidu )]['s (stock )(price )(target )(cut )][to ][($230 )][from ][($280 )][at ][(Oppenheimer )]. 

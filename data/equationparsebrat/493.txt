@@ -1,0 +1,5 @@
+The cost includes an overhead of 81,000 dollars , plus production costs of 7,000 dollars per performance.
+
+V1=81000+(7000*V2)
+
+[The (cost )][includes ][an (overhead )][of ][81,000 (dollars )], plus [(production )(costs )][of ][7,000 (dollars )][per ][(performance )]. 

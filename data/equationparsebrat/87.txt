@@ -1,0 +1,5 @@
+The sum of two numbers is 104.
+
+V1+V2=104 
+
+[The (sum )][of ][two (numbers )][is ][104 ]. 

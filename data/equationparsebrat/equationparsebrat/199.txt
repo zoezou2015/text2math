@@ -1,0 +1,5 @@
+The second plan has no initial fee but costs 0.60 dollars per mile driven.
+
+V1=0.6*V2
+
+[The second (plan )][has ][no initial (fee )]but [costs ][0.60 (dollars )][per ][(mile )][driven ]. 

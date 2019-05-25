@@ -1,0 +1,5 @@
+This amount is 1 gallon per minute less than 0.6 the original flow rate.
+
+V1=(0.6*V2)-1
+
+[This (amount )][is ][1 (gallon )][per ][(minute )][less than ][0.6 ][the original (flow )(rate )]. 

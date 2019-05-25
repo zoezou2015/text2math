@@ -1,0 +1,5 @@
+0.5 of the first number plus 0.3333 of the second number is 11.
+
+((0.5*V1)+(0.3333*V2))=11
+
+[0.5 ][of ][the first (number )][plus 0.3333 ][of ][the second (number )][is ][11 ]. 

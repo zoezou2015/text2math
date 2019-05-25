@@ -1,0 +1,5 @@
+One out of two numbers is thrice the other.
+
+V1=3*V2
+
+[1 ][out ][of ][2 (numbers )][is ][thrice ][the other ]. 

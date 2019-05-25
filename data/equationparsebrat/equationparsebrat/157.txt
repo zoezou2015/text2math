@@ -1,0 +1,5 @@
+One number is 3 more than twice a second number.
+
+V1=3+(2*V2)
+
+[One (number )][is ][3 ][more ][than ][twice a second (number )]. 

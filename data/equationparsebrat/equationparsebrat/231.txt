@@ -1,0 +1,5 @@
+During a sale an automobile dealer sold 69 cars and trucks.
+
+V1+V2=69
+
+[During ][a (sale )][an (automobile )(dealer )][sold ][69 (cars )and (trucks )]. 

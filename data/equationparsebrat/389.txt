@@ -1,0 +1,5 @@
+A customer walks into an electronics store and buys 5 MP3 players and 8 sets of headphones , paying 840 dollars.
+
+((5*V1)+(8*V2))=840
+
+[A (customer )][walks ][into ][an (electronics )(store )]and [buys ][5 (MP3 )(players )]and [8 (sets )][of ][(headphones )], [paying ][840 (dollars )]. 

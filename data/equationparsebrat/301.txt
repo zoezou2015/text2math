@@ -1,0 +1,5 @@
+On the first day of ticket sales the school sold 4 senior citizen tickets and 3 student tickets for 79 dollars.
+
+((4*V1)+(3*V2))=79
+
+[On ][the first (day )][of ][(ticket )(sales )][the (school )][sold ][4 senior (citizen )(tickets )]and [3 (student )(tickets )][for ][79 (dollars )]. 

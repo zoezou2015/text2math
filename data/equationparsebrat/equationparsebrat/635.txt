@@ -1,0 +1,5 @@
+The second of two complementary angles is 42 degrees larger than 3 times the first angle.
+
+V1=42+(3*V2)
+
+[The second ][of ][two complementary (angles )][is ][42 (degrees )larger than 3 (times )][the first (angle )]. 

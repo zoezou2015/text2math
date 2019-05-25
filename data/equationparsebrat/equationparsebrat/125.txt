@@ -1,0 +1,5 @@
+Find the number whose double is 45 greater than its half.
+
+2*V1=45+(0.5*V1)
+
+[Find ][the (number )][whose double ][is ][45 ][greater ][than ][its (half )]. 

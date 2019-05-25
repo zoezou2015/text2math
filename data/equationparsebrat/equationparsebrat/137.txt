@@ -1,0 +1,5 @@
+The probability that San Francisco plays in the next super bowl is nine times the probability that they do not play in the next super bowl.
+
+V1=9*V2
+
+[The (probability )][that ][(San )(Francisco )][plays ][in ][the next super (bowl )][is ][nine (times )][the (probability )][that ][they ][do not play ][in ][the next super (bowl )]. 

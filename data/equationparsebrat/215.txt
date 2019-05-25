@@ -1,0 +1,5 @@
+One of the stocks is worth twice as much per share as the other.
+
+V1=2*V2
+
+[One ][of ][the (stocks )][is ][worth twice as much ][per ][(share )][as ][the other ]. 

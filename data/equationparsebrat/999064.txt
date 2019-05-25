@@ -1,0 +1,5 @@
+Japan's Topix up 0.7% at 1,510.61 in early moves.
+
+V1+(0.007*V1)=1510.61
+
+[(Japan )]['s (Topix )][up ][0.7 (% )][at ][1,510.61 ][in ][early (moves )]. 

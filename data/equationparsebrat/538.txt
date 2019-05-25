@@ -1,0 +1,5 @@
+Fourteen less than eight times a number is three more than four times the number.
+
+(8*V1)-14=3+(4*V1)
+
+[Fourteen less than eight (times )][a (number )][is ][three ][more ][than ][four (times )][the (number )]. 

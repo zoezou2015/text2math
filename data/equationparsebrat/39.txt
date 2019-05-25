@@ -1,0 +1,5 @@
+One number is 3 times the other.
+
+V1=3*V2
+
+[One (number )][is ][3 (times )][the other ]. 

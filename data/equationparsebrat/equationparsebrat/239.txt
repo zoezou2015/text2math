@@ -1,0 +1,5 @@
+The second of two numbers is 4 more than the first.
+
+V1=4+V2
+
+[The second ][of ][two (numbers )][is ][4 ][more ][than ][the first ]. 

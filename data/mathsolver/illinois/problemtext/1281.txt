@@ -1,0 +1,1 @@
+There are 261 fishbowls. Each fishbowl has 23 fish. How many fish are there?

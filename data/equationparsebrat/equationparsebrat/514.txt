@@ -1,0 +1,5 @@
+The number of 15-cent stamps is four less than three times the number of 18-cent stamps.
+
+V1=(3*V2)-4
+
+[The (number )][of ][15-cent (stamps )][is ][four ][less ][than ][three (times )][the (number )][of ][18-cent (stamps )]. 

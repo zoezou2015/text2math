@@ -1,0 +1,5 @@
+March oil down 1.9%, to settle at $51.16/bbl on Nymex
+
+V1-(0.019*V1)=51.16
+
+[(March )(oil )][down ][1.9 (% )], [to settle ][at ][($51.16 )(/ )(bbl )][on ][(Nymex )]

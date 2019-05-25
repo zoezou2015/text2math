@@ -1,0 +1,1 @@
+A painter needed to paint 12 rooms in a building. Each room takes 3 hours to paint. If he already painted 4 rooms, how much longer will he take to paint the rest?

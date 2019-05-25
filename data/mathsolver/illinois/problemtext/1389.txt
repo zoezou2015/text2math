@@ -1,0 +1,1 @@
+There are 14240 books in a library. They are arranged on shelves that hold 8 books each. How many shelves are in the library?

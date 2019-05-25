@@ -1,0 +1,5 @@
+Stoxx Europe opens 0.1% higher at 391.20.
+
+V1+(0.001*V1)=391.20
+
+[(Stoxx )(Europe )][opens ][0.1 (% )][higher ][at ][391.20 ]. 

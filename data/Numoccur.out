@@ -1,0 +1,2315 @@
+999008 : Pharmacyclics stock price target cut to $163 from $233 at Credit Suisse.
+Quantities : [[= 163.0 ]:(40, 44), [= 233.0 ]:(50, 54)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+165 : The price of the garden table is 2 times the price of the bench.
+Quantities : [[= 2.0 ]:(33, 34)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+542 : The third angle is 3 times as large as the first.
+Quantities : [[= 3.0 ]:(19, 20)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+536 : Eleven less than seven times a number is five more than six times the number.
+Quantities : [[= 11.0 ]:(0, 6), [= 7.0 ]:(17, 22), [= 5.0 ]:(41, 45), [= 6.0 ]:(56, 59)]
+Gold : 
+[[1, 1, 1, 1]]
+Pred : 
+[[1, 1, 1, 1]]
+534 : Sixty more than nine times a number is the same as two less than ten times the number.
+Quantities : [[= 60.0 ]:(0, 5), [= 9.0 ]:(16, 20), [= 2.0 ]:(51, 54), [= 10.0 ]:(65, 68)]
+Gold : 
+[[1, 1, 1, 1]]
+Pred : 
+[[1, 1, 1, 0]]
+516 : There are six more quarters than dimes. 
+Quantities : [[= 6.0 ]:(10, 13)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+477 : There were twice as many adults as children.
+Quantities : [[= 2.0 ]:(11, 16)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+393 : The sum of the average miles per gallon obtained by the two cars in a particular week is 75 miles per gallon.
+Quantities : [[= 2.0 ]:(56, 59), [= 75.0 ]:(89, 91)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+999002 : April WTI oil up $1.59, to settle at $49.76/bbl on Nymex.
+Quantities : [[= 1.59 ]:(17, 23), [= 49.76 ]:(37, 47)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+171 : The carpenter saws a board that is 22 feet long into two pieces.
+Quantities : [[= 22.0 ]:(35, 37), [= 2.0 ]:(53, 56)]
+Gold : 
+[[1, 0]]
+Pred : 
+[[1, 0]]
+999014 : Intelsat stock price target cut to $11 from $21 at Credit Suisse.
+Quantities : [[= 11.0 ]:(35, 38), [= 21.0 ]:(44, 47)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+95 : The second number is 2 less than the first.
+Quantities : [[= 2.0 ]:(21, 22)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+999112 : Third Point Reinsurance stock price target raised to $17 from $16.
+Quantities : [[= 17.0 ]:(53, 56), [= 16.0 ]:(62, 66)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+619 : The second side of the triangle is 2 times as long as the first side.
+Quantities : [[= 2.0 ]:(35, 36)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+560 : Tuition costs 704 dollars more than room and board.
+Quantities : [[= 704.0 ]:(14, 17)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+157 : One number is 3 more than twice a second number.
+Quantities : [[= 1.0 ]:(0, 3), [= 3.0 ]:(14, 15), [= 2.0 ]:(26, 31)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+999060 : Hong Kong H-shares index down 0.5% at 12,008.19.
+Quantities : [[= 0.005 ]:(30, 33), [= 12008.19 ]:(38, 47)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+347 : The Lakers scored 43 points on a combination of 22 point baskets and 3 point baskets. 
+Quantities : [[= 43.0 ]:(18, 20), [= 22.0 ]:(48, 50), [= 3.0 ]:(69, 70)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+63 : 0.5 of a number is 2 more than 0.25 of the number. 
+Quantities : [[= 0.5 ]:(0, 3), [= 2.0 ]:(19, 20), [= 0.25 ]:(31, 35)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+999070 : Japan's Topix up 0.2% at 1,498.59 in early moves.
+Quantities : [[= 0.002 ]:(17, 20), [= 1498.59 ]:(25, 33)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+93 : 3 times a number is added to 5 times a number to get 54.
+Quantities : [[= 3.0 ]:(0, 1), [= 5.0 ]:(29, 30), [= 54.0 ]:(53, 55)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+409 : The sum of 0.75 of a number and two is eight.
+Quantities : [[= 0.75 ]:(11, 15), [= 2.0 ]:(32, 35), [= 8.0 ]:(39, 44)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+999082 : Four-week claims average declines 6,500 to 283,250.
+Quantities : [[= 6500.0 ]:(34, 39), [= 283250.0 ]:(43, 50)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+189 : The sum of the two numbers is 70.
+Quantities : [[= 2.0 ]:(15, 18), [= 70.0 ]:(30, 32)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+329 : If three times the smaller number is subtracted from the larger number , the result is 22. 
+Quantities : [[= 3.0 ]:(3, 8), [= 22.0 ]:(87, 89)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+289 : 0.6667 of a number increased by 0.75 is 1.6667 
+Quantities : [[= 0.6667 ]:(0, 6), [= 0.75 ]:(32, 36), [= 1.6667 ]:(40, 46)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+544 : The measure of the third angle is 40 degrees greater than that of the first angle. 
+Quantities : [[= 40.0 ]:(34, 36)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+528 : If five is subtracted from three times a certain number, the result is 10. 
+Quantities : [[= 5.0 ]:(3, 7), [= 3.0 ]:(27, 32), [= 10.0 ]:(71, 73)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+313 : 2 footballs and 3 soccer balls cost 220 dollars.
+Quantities : [[= 2.0 ]:(0, 1), [= 3.0 ]:(16, 17), [= 220.0 ]:(36, 39)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+209 : The difference of 3 times a number and 5 is 40.
+Quantities : [[= 3.0 ]:(18, 19), [= 5.0 ]:(39, 40), [= 40.0 ]:(44, 46)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+481 : There were 30 more Republicans then Democrats.
+Quantities : [[= 30.0 ]:(11, 13)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+53 : The difference between two numbers is 20.
+Quantities : [[= 2.0 ]:(23, 26), [= 20.0 ]:(38, 40)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+321 : A rancher raises 5 times as many cows as horses.
+Quantities : [[= 5.0 ]:(17, 18)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+121 : The state market has 27 more apples than oranges.
+Quantities : [[= 27.0 ]:(21, 23)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+483 : 1 more than 0.6667 the number is 0.75 the number.
+Quantities : [[= 1.0 ]:(0, 1), [= 0.6667 ]:(12, 18), [= 0.75 ]:(33, 37)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+235 : This amount is 1 gallon per minute less than 0.6 the original flow rate.
+Quantities : [[= 1.0 ]:(15, 16), [= 0.6 ]:(45, 48)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+471 : The longest piece is twice as long as the shorter piece.
+Quantities : [[= 2.0 ]:(21, 26)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+999080 : U.S. jobless claims drop 21,000 to 283,000.
+Quantities : [[= 21000.0 ]:(25, 31), [= 283000.0 ]:(35, 42)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+285 : The difference between 3 times a number and 1 is the same as twice a number. 
+Quantities : [[= 3.0 ]:(23, 24), [= 1.0 ]:(44, 45), [= 2.0 ]:(61, 66)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+239 : The second of two numbers is 4 more than the first.
+Quantities : [[= 2.0 ]:(14, 17), [= 4.0 ]:(29, 30)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+629 : Seven more than two times a certain number is 181.
+Quantities : [[= 7.0 ]:(0, 5), [= 2.0 ]:(16, 19), [= 181.0 ]:(46, 49)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+999076 : Coca-Cola raises dividend 8% to 33 cents a share.
+Quantities : [[= 0.08 ]:(26, 27), [= 0.33 ]:(32, 34)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+101 : Eldora bought 15 boxes of paper clips and 7 packages of index cards for a total cost of 55.40 dollars.
+Quantities : [[= 15.0 ]:(14, 16), [= 7.0 ]:(42, 43), [= 55.4 ]:(88, 93)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+429 : 24 is divided in two parts.
+Quantities : [[= 24.0 ]:(0, 2), [= 2.0 ]:(17, 20)]
+Gold : 
+[[1, 0]]
+Pred : 
+[[1, 0]]
+83 : Three times a number is the same as the difference of twice the number and seven.
+Quantities : [[= 3.0 ]:(0, 5), [= 2.0 ]:(54, 59), [= 7.0 ]:(75, 80)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+103 : Finn bought 12 boxes of paper clips and 10 packages of index cards for a total cost of 61.70 dollars.
+Quantities : [[= 12.0 ]:(12, 14), [= 10.0 ]:(40, 42), [= 61.7 ]:(87, 92)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+175 : Two planes start from Chicago at the same time and fly in opposite directions , one averaging a speed of 40 miles per hour greater than the other.
+Quantities : [[= 2.0 ]:(0, 3), [= 1.0 ]:(80, 83), [= 40.0 ]:(105, 107)]
+Gold : 
+[[0, 0, 1]]
+Pred : 
+[[0, 0, 1]]
+635 : The second of two complementary angles is 42 degrees larger than 3 times the first angle.
+Quantities : [[= 2.0 ]:(14, 17), [= 42.0 ]:(42, 44), [= 3.0 ]:(65, 66)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+351 : Seven times the smaller number is the same as 5 times the larger number.
+Quantities : [[= 7.0 ]:(0, 5), [= 5.0 ]:(46, 47)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+241 : Twice a number equals 25 less than triple the same number.
+Quantities : [[= 2.0 ]:(0, 5), [= 25.0 ]:(22, 24), [= 3.0 ]:(35, 41)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+397 : One is 4 times as large as the other.
+Quantities : [[= 1.0 ]:(0, 3), [= 4.0 ]:(7, 8)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+73 : City Rentals rents the truck for 38.95 dollars plus 0.31 dollars per mile.
+Quantities : [[= 38.95 ]:(33, 38), [= 0.31 ]:(52, 56)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+357 : 3 times one of them is more than 4 times the second by 2.
+Quantities : [[= 3.0 ]:(0, 1), [= 1.0 ]:(8, 11), [= 4.0 ]:(33, 34), [= 2.0 ]:(55, 56)]
+Gold : 
+[[1, 0, 1, 1]]
+Pred : 
+[[1, 0, 1, 1]]
+999126 : Germany's DAX opens 0.7% lower at 10,842.
+Quantities : [[= 0.006999999999999999 ]:(20, 23), [= 10842.0 ]:(34, 40)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+425 : This year he wants to plant 80 more acres of sunflowers than flax.
+Quantities : [[= 80.0 ]:(28, 30)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+45 : John 's Photo World charges 2.75 dollars per sheet and a one time sitting fee of 125 dollars.
+Quantities : [[= 2.75 ]:(28, 32), [= 1.0 ]:(57, 60), [= 125.0 ]:(81, 84)]
+Gold : 
+[[1, 0, 1]]
+Pred : 
+[[1, 0, 1]]
+613 : The second pieces is 3 times as long as the first piece.
+Quantities : [[= 3.0 ]:(21, 22)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+441 : The number of girls is 0.4 of the number of boys.
+Quantities : [[= 0.4 ]:(23, 26)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+522 : The number of 22-cent stamps is three more than four times the number of 40-cent stamps. 
+Quantities : [[= 22.0 ]:(14, 16), [= 3.0 ]:(32, 37), [= 4.0 ]:(48, 52), [= 40.0 ]:(73, 75)]
+Gold : 
+[[0, 1, 1, 0]]
+Pred : 
+[[0, 1, 1, 0]]
+361 : The amount donated by class A is 7 dollars short of 0.6667 of the amount donated by class B.
+Quantities : [[= 7.0 ]:(33, 34), [= 0.6667 ]:(52, 58)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+265 : Two investments are made totaling 8800 dollars.
+Quantities : [[= 2.0 ]:(0, 3), [= 8800.0 ]:(34, 38)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+155 : In a basketball game , Will scored 26 points , consisting only of 3-point shots and 2-point shots.
+Quantities : [[= 26.0 ]:(35, 37), [= 3.0 ]:(66, 67), [= 2.0 ]:(84, 85)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 0, 0]]
+407 : Steve has 36 coins consisting of dimes and nickels.
+Quantities : [[= 36.0 ]:(10, 12)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+605 : Four less than eight times a certain number is 660.
+Quantities : [[= 4.0 ]:(0, 4), [= 8.0 ]:(15, 20), [= 660.0 ]:(47, 50)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+999054 : Transocean stock price target cut to $12 from $15 at Susquehanna.
+Quantities : [[= 12.0 ]:(37, 40), [= 15.0 ]:(46, 49)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+311 : 3 footballs and 4 soccer balls cost 155 dollars.
+Quantities : [[= 3.0 ]:(0, 1), [= 4.0 ]:(16, 17), [= 155.0 ]:(36, 39)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+19 : The sum of 2 numbers is 50.
+Quantities : [[= 2.0 ]:(11, 12), [= 50.0 ]:(24, 26)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+169 : The second agency charges 18.25 dollars per day and 0.22 dollars per mile.
+Quantities : [[= 18.25 ]:(26, 31), [= 0.22 ]:(52, 56)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+625 : The degree measure of angle B is 4 times the degree measure of angle A.
+Quantities : [[= 4.0 ]:(33, 34)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+199 : The second plan has no initial fee but costs 0.60 dollars per mile driven.
+Quantities : [[= 0.6 ]:(45, 49)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+599 : The second angle is 6 degrees larger than 2 times the measure of the first angle.
+Quantities : [[= 6.0 ]:(20, 21), [= 2.0 ]:(42, 43)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+5 : You have 160 dollars and save 7 dollars per week.
+Quantities : [[= 160.0 ]:(9, 12), [= 7.0 ]:(30, 31)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+530 : When 18 is subtracted from six times a certain number, the result is 42.
+Quantities : [[= 18.0 ]:(5, 7), [= 6.0 ]:(27, 30), [= 42.0 ]:(69, 71)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+227 : The greater of two numbers is 8 times the lesser.
+Quantities : [[= 2.0 ]:(15, 18), [= 8.0 ]:(30, 31)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+119 : The table cost 500 dollars more than a chair.
+Quantities : [[= 500.0 ]:(15, 18)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+17 : The value of a sport utility vehicle this year is 16,000 dollars , which is 0.8 of what its value was last year.
+Quantities : [[= 16000.0 ]:(50, 56), [= 0.8 ]:(76, 79)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999074 : T.Rowe Price raises regular quarterly dividend by 18% to 52 cents a share.
+Quantities : [[= 0.18 ]:(50, 52), [= 0.52 ]:(57, 59)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+Accuracy : = 75.0 / 77 = 0.974025974025974
+141 : 4 apples and 2 oranges equals 1 dollars.
+Quantities : [[= 4.0 ]:(0, 1), [= 2.0 ]:(13, 14), [= 1.0 ]:(30, 31)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+469 : The difference between three times the smaller number and the larger number is 16.
+Quantities : [[= 3.0 ]:(23, 28), [= 16.0 ]:(79, 81)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999000 : April Brent crude up $2.53 to end at $62.58/bbl on ICE.
+Quantities : [[= 2.53 ]:(21, 26), [= 62.58 ]:(37, 47)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+349 : The ratio of spaces for full sized cars to compact cars is 11 to 4.
+Quantities : [[= 11.0 ]:(59, 61), [= 4.0 ]:(65, 66)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+267 : With a tail wind , a jet flew 2000 miles in 4 hours.
+Quantities : [[= 2000.0 ]:(30, 34), [= 4.0 ]:(44, 45)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 0]]
+387 : The sum of two numbers is 18. 
+Quantities : [[= 2.0 ]:(11, 14), [= 18.0 ]:(26, 28)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+463 : Mrs.Martin bought 3 cups of coffee and 2 bagels and spent 12.75 dollars.
+Quantities : [[= 3.0 ]:(18, 19), [= 2.0 ]:(39, 40), [= 12.75 ]:(58, 63)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 0, 1]]
+215 : One of the stocks is worth twice as much per share as the other.
+Quantities : [[= 1.0 ]:(0, 3), [= 2.0 ]:(27, 32)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+433 : Tickets for balcony seats will cost 15 dollars less than tickets for main-level seats.
+Quantities : [[= 15.0 ]:(36, 38)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+524 : A total of 50000 dollars is invested, part of it at 5% and the rest at 7.5%. 
+Quantities : [[= 50000.0 ]:(11, 16), [= 0.05 ]:(52, 53), [= 0.075 ]:(71, 74)]
+Gold : 
+[[1, 0, 0]]
+Pred : 
+[[1, 0, 1]]
+179 : There are twice as many children as adults in the group.
+Quantities : [[= 2.0 ]:(10, 15)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+999136 : Zulily's stock price target cut to $18 from $42 at RW Baird.
+Quantities : [[= 18.0 ]:(35, 38), [= 42.0 ]:(44, 47)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+149 : Safety Rent-a-Car rents an intermediate-size car at a daily rate of 21.95 dollars plus 0.19 per mile.
+Quantities : [[= 21.95 ]:(68, 73), [= 0.19 ]:(87, 91)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999032 : France's CAC opens 0.1% higher at 4,888.30.
+Quantities : [[= 0.001 ]:(19, 22), [= 4888.3 ]:(34, 42)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999132 : Hong Kong H-share index down 0.1% at 11,919.48.
+Quantities : [[= 0.001 ]:(29, 32), [= 11919.48 ]:(37, 46)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+621 : The third side of the triangle is 6 inches longer than the first side.
+Quantities : [[= 6.0 ]:(34, 35)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+91 : The sum of 20 and a number is 30.
+Quantities : [[= 20.0 ]:(11, 13), [= 30.0 ]:(30, 32)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+508 : There are twice as many dimes as nickels.
+Quantities : [[= 2.0 ]:(10, 15)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+586 : The sum of Clyde and Wendy’s age is 64. 
+Quantities : [[= 64.0 ]:(36, 38)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+233 : She sold 27 more cars than trucks. 
+Quantities : [[= 27.0 ]:(9, 11)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+167 : The first agency charges 20.25 dollars per day and 0.14 dollars per mile. 
+Quantities : [[= 20.25 ]:(25, 30), [= 0.14 ]:(51, 55)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+538 : Fourteen less than eight times a number is three more than four times the number.
+Quantities : [[= 14.0 ]:(0, 8), [= 8.0 ]:(19, 24), [= 3.0 ]:(43, 48), [= 4.0 ]:(59, 63)]
+Gold : 
+[[1, 1, 1, 1]]
+Pred : 
+[[1, 1, 1, 1]]
+295 : 7 times the first part added to 5 times the second part makes 146.
+Quantities : [[= 7.0 ]:(0, 1), [= 5.0 ]:(32, 33), [= 146.0 ]:(62, 65)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+37 : The sum of 2 numbers is 84.
+Quantities : [[= 2.0 ]:(11, 12), [= 84.0 ]:(24, 26)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+219 : He bought 4 bags of bagels and 2 packages of cream cheese and paid 14.00 dollars.
+Quantities : [[= 4.0 ]:(10, 11), [= 2.0 ]:(31, 32), [= 14.0 ]:(67, 72)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+596 : The first plane is flying 25 mph slower than the second plane. 
+Quantities : [[= 25.0 ]:(26, 28)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+31 : 10 less than 0.6667 the number is 0.25 the number.
+Quantities : [[= 10.0 ]:(0, 2), [= 0.6667 ]:(13, 19), [= 0.25 ]:(34, 38)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+546 : The length is 40 cm longer than the width.
+Quantities : [[= 40.0 ]:(14, 16)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+594 : One cyclist rides twice as fast as the other.
+Quantities : [[= 1.0 ]:(0, 3), [= 2.0 ]:(18, 23)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+415 : The number of boys in eighth grade is 16 less than twice the number of girls.
+Quantities : [[= 16.0 ]:(38, 40), [= 2.0 ]:(51, 56)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+443 : The number of grocery items on two grocery lists differs by 7.
+Quantities : [[= 2.0 ]:(31, 34), [= 7.0 ]:(60, 61)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+467 : This is 3 meters less than twice the width.
+Quantities : [[= 3.0 ]:(8, 9), [= 2.0 ]:(27, 32)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+145 : The washer costs 220 dollars more than the dryer.
+Quantities : [[= 220.0 ]:(17, 20)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+657 : Alice inherits 40,000 dollars and decides to invest the money in two accounts, part in a certificate of deposit that pays 3% interest per year, and the rest in a mutual fund that pays 6% per year. 
+Quantities : [[= 40000.0 ]:(15, 21), [= 2.0 ]:(65, 68), [= 0.03 ]:(122, 123), [= 0.06 ]:(184, 185)]
+Gold : 
+[[1, 0, 0, 0]]
+Pred : 
+[[1, 0, 1, 0]]
+491 : The other plan costs 0.40 dollars per text message with no monthly fee.
+Quantities : [[= 0.4 ]:(21, 25)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+11 : You are currently twice as far from your house as you are from your mothers house.
+Quantities : [[= 2.0 ]:(18, 23)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+281 : The product of 10 and a number is the same as 36 less twice that same number.
+Quantities : [[= 10.0 ]:(15, 17), [= 36.0 ]:(46, 48), [= 2.0 ]:(54, 59)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+999034 : Shanghai Composite down 0.3% at 3,218.47.
+Quantities : [[= 0.003 ]:(24, 27), [= 3218.47 ]:(32, 40)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+331 : One cyclist travels 8 kilometers per hour faster than the other.
+Quantities : [[= 1.0 ]:(0, 3), [= 8.0 ]:(20, 21)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+999122 : UK December unemployment rate dips to 5.7%, from 5.8%.
+Quantities : [[= 0.057 ]:(38, 41), [= 0.057999999999999996 ]:(49, 52)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+611 : After several days, he is two times as far from the beginning of the trail as he is from the end.
+Quantities : [[= 2.0 ]:(26, 29)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+237 : One is 4 greater than 0.375 of the other.
+Quantities : [[= 1.0 ]:(0, 3), [= 4.0 ]:(7, 8), [= 0.375 ]:(22, 27)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+107 : After reading several fashion magazines she decides to stock her shelves with 34 more blue dresses than red dresses.
+Quantities : [[= 34.0 ]:(78, 80)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+999062 : Japan's Nikkei Average opens 0.9% up at 18,499.58.
+Quantities : [[= 0.009000000000000001 ]:(29, 32), [= 18499.58 ]:(40, 49)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+115 : A company 's profit for the first half of the year is 2,750,000 dollars greater than the profit for the second half.
+Quantities : [[= 0.5 ]:(34, 38), [= 2750000.0 ]:(54, 63), [= 0.5 ]:(111, 115)]
+Gold : 
+[[0, 1, 0]]
+Pred : 
+[[1, 1, 1]]
+275 : In a given day , the mill turns out three times as many units of plywood as lumber.
+Quantities : [[= 3.0 ]:(36, 41)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+631 : Nine more than two times a certain number is 137.
+Quantities : [[= 9.0 ]:(0, 4), [= 2.0 ]:(15, 18), [= 137.0 ]:(45, 48)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+343 : Twice a number increased by 5 is 17.
+Quantities : [[= 2.0 ]:(0, 5), [= 5.0 ]:(28, 29), [= 17.0 ]:(33, 35)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+445 : Wednesdays game generates 142.50 dollars less than Saturdays game.
+Quantities : [[= 142.5 ]:(26, 32)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+75 : The difference between 2 times a number and -8 is -12.
+Quantities : [[= 2.0 ]:(23, 24), [= -8.0 ]:(44, 46), [= -12.0 ]:(50, 54)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+291 : Three times a number minus a second number is 20.
+Quantities : [[= 3.0 ]:(0, 5), [= 20.0 ]:(46, 48)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+55 : 0.5 of a certain number is 10 more than 0.1667 of a number.
+Quantities : [[= 0.5 ]:(0, 3), [= 10.0 ]:(27, 29), [= 0.1667 ]:(40, 46)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+550 : A bicycle and a bicycle helmet cost 240 dollars.
+Quantities : [[= 240.0 ]:(36, 39)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+554 : Aaron had 7 times as many sheep as Beth.
+Quantities : [[= 7.0 ]:(10, 11)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+999138 : Cisco Systems' stock price target raised to $30 from $28 at Raymond James.
+Quantities : [[= 30.0 ]:(44, 47), [= 28.0 ]:(53, 56)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+35 : They won 9 more games than they tied.
+Quantities : [[= 9.0 ]:(9, 10)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+193 : The price of the garden table is two times the price of the bench.
+Quantities : [[= 2.0 ]:(33, 36)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+301 : On the first day of ticket sales the school sold 4 senior citizen tickets and 3 student tickets for 79 dollars.
+Quantities : [[= 4.0 ]:(49, 50), [= 3.0 ]:(78, 79), [= 79.0 ]:(100, 102)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+653 : The second of two supplementary angles is 114 degrees larger than 3 times the first angle.
+Quantities : [[= 2.0 ]:(14, 17), [= 114.0 ]:(42, 45), [= 3.0 ]:(66, 67)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+999118 : Chubb's stock price target raised to $103 from $89 at Citigroup.
+Quantities : [[= 103.0 ]:(37, 41), [= 89.0 ]:(47, 50)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+337 : The total cost of a shirt and a sweater is 80.34 dollars.
+Quantities : [[= 80.34 ]:(43, 48)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+403 : There were 7 times as many thermometers as hot-water bottles sold.
+Quantities : [[= 7.0 ]:(11, 12)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+999036 : Japan's Topix down 0.1% at 1,506.39 in early moves.
+Quantities : [[= 0.001 ]:(19, 22), [= 1506.39 ]:(27, 35)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999058 : Hong Kong's Hang Seng opens up 0.3% at 24,916.24.
+Quantities : [[= 0.003 ]:(31, 34), [= 24916.24 ]:(39, 48)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+67 : If the wind was 0.5 times as strong and the bird flies against it , it could make only 30 kilometers per hour.
+Quantities : [[= 0.5 ]:(16, 19), [= 30.0 ]:(87, 89)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999042 : Boeing stock price target cut to $132 from $146 at Goldman Sachs.
+Quantities : [[= 132.0 ]:(33, 37), [= 146.0 ]:(43, 47)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+185 : A swim team has 5 times as many girls as boys.
+Quantities : [[= 5.0 ]:(16, 17)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+999052 : Boeing stock price target raised to $175 from $160 at Stifel Nicolaus.
+Quantities : [[= 175.0 ]:(36, 40), [= 160.0 ]:(46, 50)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+225 : The automobile from the east travels at 10 kilometers faster than the automobile from the west.
+Quantities : [[= 10.0 ]:(40, 42)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+435 : The cost of 12 gallons of regular gasoline and 18 gallons of premium gasoline is 44.46 dollars.
+Quantities : [[= 12.0 ]:(12, 14), [= 18.0 ]:(47, 49), [= 44.46 ]:(81, 86)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+651 : The second of two supplementary angles is 40 degrees larger than 3 times the first angle.
+Quantities : [[= 2.0 ]:(14, 17), [= 40.0 ]:(42, 44), [= 3.0 ]:(65, 66)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+655 : Eileen inherits 20,000 dollars and decides to invest the money in two accounts, part in a certificate of deposit that pays 3% interest per year, and the rest in a mutual fund that pays 5% per year. 
+Quantities : [[= 20000.0 ]:(16, 22), [= 2.0 ]:(66, 69), [= 0.03 ]:(123, 124), [= 0.05 ]:(185, 186)]
+Gold : 
+[[1, 0, 0, 0]]
+Pred : 
+[[1, 0, 1, 0]]
+401 : One number is 3 times as large as the other number.
+Quantities : [[= 1.0 ]:(0, 3), [= 3.0 ]:(14, 15)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+13 : A total of 10,000 dollars is invested in 2 funds paying 5 % and 7 % annual interest.
+Quantities : [[= 10000.0 ]:(11, 17), [= 2.0 ]:(41, 42), [= 0.05 ]:(56, 57), [= 0.07 ]:(64, 65)]
+Gold : 
+[[1, 0, 0, 0]]
+Pred : 
+[[1, 0, 0, 0]]
+999068 : Stoxx Europe opens 0.1% lower at 381.13.
+Quantities : [[= 0.001 ]:(19, 22), [= 381.13 ]:(33, 39)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+375 : The second is 7 more than 5 times the first.
+Quantities : [[= 7.0 ]:(14, 15), [= 5.0 ]:(26, 27)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+540 : The third angle is 12 degrees larger than the first angle.
+Quantities : [[= 12.0 ]:(19, 21)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+Accuracy : = 71.0 / 77 = 0.922077922077922
+335 : A serving of fries costs 0.25 dollars more then a hamburger.
+Quantities : [[= 0.25 ]:(25, 29)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+315 : In one day , a store sold 1.6 as many DVDs as CDs.
+Quantities : [[= 1.0 ]:(3, 6), [= 1.6 ]:(26, 29)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+213 : One number is 8 more than the other.
+Quantities : [[= 1.0 ]:(0, 3), [= 8.0 ]:(14, 15)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+999120 : Travelers' stock price target raised to $110 from $94 at Citigroup.
+Quantities : [[= 110.0 ]:(40, 44), [= 94.0 ]:(50, 53)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999084 : Continuing jobless claims rise 58,000 to 2,430,000 .
+Quantities : [[= 58000.0 ]:(31, 37), [= 2430000.0 ]:(41, 50)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999130 : Stoxx Europe opens 0.2% lower at 375.63.
+Quantities : [[= 0.002 ]:(19, 22), [= 375.63 ]:(33, 39)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+355 : A woman has 450 dollars invested , part at 2 % and the remainder at 3 % simple interest.
+Quantities : [[= 450.0 ]:(12, 15), [= 0.02 ]:(43, 44), [= 0.03 ]:(68, 69)]
+Gold : 
+[[1, 0, 0]]
+Pred : 
+[[1, 0, 0]]
+999006 : Procera Networks stock price target raised to $9 from $7.50 at Deutsche Bank.
+Quantities : [[= 9.0 ]:(46, 48), [= 7.5 ]:(54, 59)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999104 : Australia's S&P/ASX up 0.5% at 5,943.60 early.
+Quantities : [[= 0.005 ]:(23, 26), [= 5943.6 ]:(31, 39)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999098 : April gold up $14.90, to $1215.10 an ounce.
+Quantities : [[= 14.9 ]:(14, 20), [= 1215.1 ]:(25, 33)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+389 : A customer walks into an electronics store and buys 5 MP3 players and 8 sets of headphones , paying 840 dollars.
+Quantities : [[= 5.0 ]:(52, 53), [= 8.0 ]:(70, 71), [= 840.0 ]:(100, 103)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+247 : Think of a number , half it and the result is 9.
+Quantities : [[= 0.5 ]:(20, 24), [= 9.0 ]:(46, 47)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[0, 1]]
+584 : A limestone statue is 56 years older than a marble statue.
+Quantities : [[= 56.0 ]:(22, 24)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+405 : Jordan 's salary is 1250 dollars a month plus a 5 % commission on all of his sales.
+Quantities : [[= 1250.0 ]:(20, 24), [= 0.05 ]:(48, 49)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 0]]
+111 : City Rentals rents a basic car at 18.95 dollars plus 0.16 per mile.
+Quantities : [[= 18.95 ]:(34, 39), [= 0.16 ]:(53, 57)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+520 : The number of dimes is 10 less than twice the number of nickels. 
+Quantities : [[= 10.0 ]:(23, 25), [= 2.0 ]:(36, 41)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+135 : Twice the number of girls exceeds the number of boys by 12.
+Quantities : [[= 2.0 ]:(0, 5), [= 12.0 ]:(56, 58)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+377 : Mrs. Lloyd plans on spending 370 dollars on 10 meals and 3 nights in a hotel.
+Quantities : [[= 370.0 ]:(29, 32), [= 10.0 ]:(44, 46), [= 3.0 ]:(57, 58)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+33 : A semi truck travels on a paved road for 2 hours at an average speed of 20 miles per hour faster than it travels on a dirt road.
+Quantities : [[= 2.0 ]:(41, 42), [= 20.0 ]:(72, 74)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[1, 1]]
+999086 : Valero Energy stock price target raised to $70 from $60.
+Quantities : [[= 70.0 ]:(43, 46), [= 60.0 ]:(52, 55)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+299 : The ratio of boys to girls is 9 to 4.
+Quantities : [[= 9.0 ]:(30, 31), [= 4.0 ]:(35, 36)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+379 : She knows that for every 2 cans of tomato soup she sells , she will sell 4 cans of chili beans.
+Quantities : [[= 2.0 ]:(25, 26), [= 4.0 ]:(73, 74)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+423 : He has 12 more dimes than nickels.
+Quantities : [[= 12.0 ]:(7, 9)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+617 : The third piece is 5 feet longer than the first piece
+Quantities : [[= 5.0 ]:(19, 20)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+601 : The second angle is 10 degrees larger than 3 times the measure of the first angle.
+Quantities : [[= 10.0 ]:(20, 22), [= 3.0 ]:(43, 44)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+333 : David bought 3 hamburgers and 2 servings of french fries at Diane 's Drive Up for 6.25 dollars.
+Quantities : [[= 3.0 ]:(13, 14), [= 2.0 ]:(30, 31), [= 6.25 ]:(82, 86)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+207 : The trailer weighs 200 pounds less than 0.5 as much as the truck.
+Quantities : [[= 200.0 ]:(19, 22), [= 0.5 ]:(40, 43)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999024 : Japan January jobless rate rises to 3.6% from 3.4%.
+Quantities : [[= 0.036000000000000004 ]:(36, 39), [= 0.034 ]:(46, 49)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+61 : Juan is on his bike and travels 3 miles per hour faster than Peter who is on his skateboard. 
+Quantities : [[= 3.0 ]:(32, 33)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+999140 : Baidu's stock price target cut to $230 from $280 at Oppenheimer.
+Quantities : [[= 230.0 ]:(34, 38), [= 280.0 ]:(44, 48)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999018 : Stoxx Europe opens 0.1% higher at 391.20.
+Quantities : [[= 0.001 ]:(19, 22), [= 391.2 ]:(34, 40)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+455 : The sum of the average miles per gallon obtained by the two cars in a particular week is 45.
+Quantities : [[= 2.0 ]:(56, 59), [= 45.0 ]:(89, 91)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+999124 : Transocean stock price target cut to $6 from $16 at Deutsche Bank.
+Quantities : [[= 6.0 ]:(37, 39), [= 16.0 ]:(45, 48)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+339 : The price of the shirt is 7.43 dollars less than the sweater.
+Quantities : [[= 7.43 ]:(26, 30)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+439 : There were 178 more hikers than bike riders.
+Quantities : [[= 178.0 ]:(11, 14)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+427 : 7 time the first part added to 5 times the second part makes 146.
+Quantities : [[= 7.0 ]:(0, 1), [= 5.0 ]:(31, 32), [= 146.0 ]:(61, 64)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+109 : Sunshine Car Rentals rents a basic car at a daily rate of 17.99 dollars plus 0.18 per mile.
+Quantities : [[= 17.99 ]:(58, 63), [= 0.18 ]:(77, 81)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+41 : A bank teller has 54 5-dollar and 20-dollar bills in her cash drawer.
+Quantities : [[= 54.0 ]:(18, 20), [= 5.0 ]:(21, 22), [= 20.0 ]:(34, 36)]
+Gold : 
+[[1, 0, 0]]
+Pred : 
+[[1, 1, 1]]
+147 : Freeport McMoran projects that in 2010 the world grain supply will be 1800000 metric tons and the supply will be only 0.75 of the world grain demand.
+Quantities : [[= 2010.0 ]:(34, 38), [= 1800000.0 ]:(70, 77), [= 0.75 ]:(118, 122)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[1, 0, 1]]
+139 : The probability that San Francisco plays in the next super bowl plus the probability that they do not play is 1.
+Quantities : [[= 1.0 ]:(110, 111)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+217 : Jim bought 2 bags of bagels and 3 packages of cream cheese and paid 12.00 dollars.
+Quantities : [[= 2.0 ]:(11, 12), [= 3.0 ]:(32, 33), [= 12.0 ]:(68, 73)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+999078 : Priceline shares surge 7.1% to $1,203.11.
+Quantities : [[= 0.071 ]:(23, 27), [= 1203.11 ]:(31, 41)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999114 : RenaissanceRe's stock price target raised to $120 from $108.
+Quantities : [[= 120.0 ]:(45, 49), [= 108.0 ]:(55, 59)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+229 : The second number is 3 less than twice the first number.
+Quantities : [[= 3.0 ]:(21, 22), [= 2.0 ]:(33, 38)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+99 : The difference between two numbers is 3.
+Quantities : [[= 2.0 ]:(23, 26), [= 3.0 ]:(38, 39)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+309 : If the product of 5 and a number is increased by 4 , the result is 19.
+Quantities : [[= 5.0 ]:(18, 19), [= 4.0 ]:(49, 50), [= 19.0 ]:(67, 69)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+323 : 1 number is 3 less than twice another number.
+Quantities : [[= 1.0 ]:(0, 1), [= 3.0 ]:(12, 13), [= 2.0 ]:(24, 29)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+49 : The Mcdonalds stock was 70 dollars more per share than the Ohio Art Company stock.
+Quantities : [[= 70.0 ]:(24, 26)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+558 : One piece is 2 feet longer than the other.
+Quantities : [[= 1.0 ]:(0, 3), [= 2.0 ]:(13, 14)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+431 : Arthur bought 3 hamburgers and 4 hot dogs for 10 dollars.
+Quantities : [[= 3.0 ]:(14, 15), [= 4.0 ]:(31, 32), [= 10.0 ]:(46, 48)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+203 : They lost 21 more games than they won.
+Quantities : [[= 21.0 ]:(10, 12)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+548 : The land cost 4 times as much as the cabin.
+Quantities : [[= 4.0 ]:(14, 15)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+641 : The length of the rectangle is 24 inches more than twice the width.
+Quantities : [[= 24.0 ]:(31, 33), [= 2.0 ]:(51, 56)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+273 : 0.40 of one part exceeds 0.625 of the other part by 10.
+Quantities : [[= 0.4 ]:(0, 4), [= 1.0 ]:(8, 11), [= 0.625 ]:(25, 30), [= 10.0 ]:(52, 54)]
+Gold : 
+[[1, 0, 1, 1]]
+Pred : 
+[[1, 0, 1, 1]]
+367 : A 69 inch board is cut into 2 pieces.
+Quantities : [[= 69.0 ]:(2, 4), [= 2.0 ]:(28, 29)]
+Gold : 
+[[1, 0]]
+Pred : 
+[[1, 0]]
+999116 : Axis Capital's stock price target raised to $54 from $46.
+Quantities : [[= 54.0 ]:(44, 47), [= 46.0 ]:(53, 57)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+159 : Lakota bought 6 new compact disks and 2 used compact disks for 127.92 dollars.
+Quantities : [[= 6.0 ]:(14, 15), [= 2.0 ]:(38, 39), [= 127.92 ]:(63, 69)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+195 : The sum of 5 and a number is 20.
+Quantities : [[= 5.0 ]:(11, 12), [= 20.0 ]:(29, 31)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999004 : U.S. fourth-quarter GDP chopped to 2.2% from 2.6%.
+Quantities : [[= 0.022000000000000002 ]:(35, 38), [= 0.026000000000000002 ]:(45, 48)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+23 : The Kings won two less than three times as many games as they lost.
+Quantities : [[= 2.0 ]:(14, 17), [= 3.0 ]:(28, 33)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+345 : 36 more than the product of three and x is the same as 48.
+Quantities : [[= 36.0 ]:(0, 2), [= 3.0 ]:(28, 33), [= 48.0 ]:(55, 57)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+532 : A certain number added twice to itself equals 96.
+Quantities : [[= 2.0 ]:(23, 28), [= 96.0 ]:(46, 48)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+637 : The second of two complementary angles is 57 degrees larger than 3 times the first angle.
+Quantities : [[= 2.0 ]:(14, 17), [= 57.0 ]:(42, 44), [= 3.0 ]:(65, 66)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+133 : The sum of the numbers of boys and girls in a class is 36.
+Quantities : [[= 36.0 ]:(55, 57)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+473 : They won 12 games more than they tied.
+Quantities : [[= 12.0 ]:(9, 11)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+161 : Mackenzie bought 3 new compact disks and 8 used compact disks for 133.89 dollars.
+Quantities : [[= 3.0 ]:(17, 18), [= 8.0 ]:(41, 42), [= 133.89 ]:(66, 72)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+249 : 1.3333 of a number is 4.82.
+Quantities : [[= 1.3333 ]:(0, 6), [= 4.82 ]:(22, 26)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+514 : The number of 15-cent stamps is four less than three times the number of 18-cent stamps.
+Quantities : [[= 15.0 ]:(14, 16), [= 4.0 ]:(32, 36), [= 3.0 ]:(47, 52), [= 18.0 ]:(73, 75)]
+Gold : 
+[[0, 1, 1, 0]]
+Pred : 
+[[0, 1, 1, 0]]
+381 : Seven times a number is the same as 12 more than 3 times the number.
+Quantities : [[= 7.0 ]:(0, 5), [= 12.0 ]:(36, 38), [= 3.0 ]:(49, 50)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+79 : Together the students and professors number 40,000.
+Quantities : [[= 40000.0 ]:(44, 50)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+131 : 0.20 of a number decreased by 4 is equal to 6.
+Quantities : [[= 0.2 ]:(0, 4), [= 4.0 ]:(30, 31), [= 6.0 ]:(44, 45)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+269 : Sara has already saved 4100 dollars , and she plans to save 10 dollars a week.
+Quantities : [[= 4100.0 ]:(23, 27), [= 10.0 ]:(60, 62)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999128 : France's CAC falls 0.6% to 4,722 in early trade.
+Quantities : [[= 0.006 ]:(19, 22), [= 4722.0 ]:(27, 32)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+231 : During a sale an automobile dealer sold 69 cars and trucks.
+Quantities : [[= 69.0 ]:(40, 42)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+211 : The number of coach class seats is 2 more than 4 times the number of first-class seats.
+Quantities : [[= 2.0 ]:(35, 36), [= 4.0 ]:(47, 48)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+564 : A boy is 10 years older than his brother. 
+Quantities : [[= 10.0 ]:(9, 11)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+Accuracy : = 70.0 / 76 = 0.9210526315789473
+9 : A 20-foot board is cut into 2 pieces.
+Quantities : [[= 20.0 ]:(2, 4), [= 2.0 ]:(28, 29)]
+Gold : 
+[[1, 0]]
+Pred : 
+[[1, 0]]
+113 : The sum of 38 and twice a number is 124.
+Quantities : [[= 38.0 ]:(11, 13), [= 2.0 ]:(18, 23), [= 124.0 ]:(36, 39)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+999108 : Priceline's stock price target cut to $1,230 from $1,300 at JMP Securities.
+Quantities : [[= 1230.0 ]:(38, 44), [= 1300.0 ]:(50, 56)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+459 : The Mainers won 24 more than twice as many games as they lost.
+Quantities : [[= 24.0 ]:(16, 18), [= 2.0 ]:(29, 34)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999020 : Japan's Topix up 0.3% at 1,525.87 in early moves.
+Quantities : [[= 0.003 ]:(17, 20), [= 1525.87 ]:(25, 33)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+457 : 0.5 of the first number plus 0.3333 of the second number is 11.
+Quantities : [[= 0.5 ]:(0, 3), [= 0.3333 ]:(29, 35), [= 11.0 ]:(60, 62)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+7 : Your friend has 210 dollars and saves 5 dollars per week.
+Quantities : [[= 210.0 ]:(16, 19), [= 5.0 ]:(38, 39)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999046 : Lab Corp of America stock price target raised to $140 from $113 at Credit Suisse.
+Quantities : [[= 140.0 ]:(49, 53), [= 113.0 ]:(59, 63)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+661 : The length of the rectangle is 28 feet less than three times the width.
+Quantities : [[= 28.0 ]:(31, 33), [= 3.0 ]:(49, 54)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+163 : A garden table and a bench cost 450 dollars combined.
+Quantities : [[= 450.0 ]:(32, 35)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+317 : The total number of DVDs and CDs sold that day was 273.
+Quantities : [[= 273.0 ]:(51, 54)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+21 : The first number is 43 less than twice the second number.
+Quantities : [[= 43.0 ]:(20, 22), [= 2.0 ]:(33, 38)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999088 : Hormel Foods total net sales up 6.8% to $2390000000.
+Quantities : [[= 0.068 ]:(32, 36), [= 2390000000.0 ]:(40, 52)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+253 : 2 ducks and 9 pigs cost 269 dollars.
+Quantities : [[= 2.0 ]:(0, 1), [= 9.0 ]:(12, 13), [= 269.0 ]:(24, 27)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+385 : Twice the smaller number is 6 more than the larger.
+Quantities : [[= 2.0 ]:(0, 5), [= 6.0 ]:(28, 29)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999030 : April oil down $2.82 to settle at $48.17/bbl on Nymex
+Quantities : [[= 2.82 ]:(15, 20), [= 48.17 ]:(34, 44)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+556 : An electrician cuts a 30 feet piece of wire into two pieces.
+Quantities : [[= 30.0 ]:(22, 24), [= 2.0 ]:(49, 52)]
+Gold : 
+[[1, 0]]
+Pred : 
+[[1, 0]]
+117 : 2 similar tables and 6 similar chairs cost 6600 dollars.
+Quantities : [[= 2.0 ]:(0, 1), [= 6.0 ]:(21, 22), [= 6600.0 ]:(43, 47)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+223 : The sum of girls and boys is 41.
+Quantities : [[= 41.0 ]:(29, 31)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+353 : For a special event at the TCR spring fest , the cost of 3 adult tickets and 4 student tickets was 84 dollars.
+Quantities : [[= 3.0 ]:(57, 58), [= 4.0 ]:(77, 78), [= 84.0 ]:(99, 101)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+303 : The school took 246 dollars on the second day by selling 12 senior citizen tickets and 10 student tickets.
+Quantities : [[= 246.0 ]:(16, 19), [= 12.0 ]:(57, 59), [= 10.0 ]:(87, 89)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+3 : Bob invested 6100 dollars in two funds , which pay 7 % and 6 % simple interest respectively.
+Quantities : [[= 6100.0 ]:(13, 17), [= 2.0 ]:(29, 32), [= 0.07 ]:(51, 52), [= 0.06 ]:(59, 60)]
+Gold : 
+[[1, 0, 0, 0]]
+Pred : 
+[[1, 0, 0, 0]]
+143 : 2 apples and 3 orange equals 0.70 dollars.
+Quantities : [[= 2.0 ]:(0, 1), [= 3.0 ]:(13, 14), [= 0.7 ]:(29, 33)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+447 : There are 69 more girls than boys.
+Quantities : [[= 69.0 ]:(10, 12)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+627 : The degree measure of angle C is 60 degrees larger than the degree measure of angle A.
+Quantities : [[= 60.0 ]:(33, 35)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+399 : Two numbers are in the ratio 8 to 3. 
+Quantities : [[= 2.0 ]:(0, 3), [= 8.0 ]:(29, 30), [= 3.0 ]:(34, 35)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+129 : The tallest player is 9.5 inches taller than the shortest player. 
+Quantities : [[= 9.5 ]:(22, 25)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+259 : Caesar 's charges 800 dollars to rent the room and 30 dollars for each meal.
+Quantities : [[= 800.0 ]:(18, 21), [= 30.0 ]:(51, 53)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+197 : The first plan has an initial fee of 65 dollars and costs an additional 0.40 dollars per mile driven.
+Quantities : [[= 65.0 ]:(37, 39), [= 0.4 ]:(72, 76)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 0]]
+999148 : Newell Rubbermaid raises quarterly dividend 12% to 19 cents a share.
+Quantities : [[= 0.12 ]:(44, 46), [= 0.19 ]:(51, 53)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999134 : Japan's Topix down 0.2% at 1,457.16 in early moves.
+Quantities : [[= 0.002 ]:(19, 22), [= 1457.16 ]:(27, 35)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+97 : At today 's matinee , there are 20 more children than adults.
+Quantities : [[= 20.0 ]:(32, 34)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+251 : 6 ducks and 5 pigs cost 213 dollars.
+Quantities : [[= 6.0 ]:(0, 1), [= 5.0 ]:(12, 13), [= 213.0 ]:(24, 27)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+77 : In college there are 15 times as many students as professors.
+Quantities : [[= 15.0 ]:(21, 23)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+437 : Premium costs 0.22 dollars more per gallon than regular.
+Quantities : [[= 0.22 ]:(14, 18)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+51 : The difference between two numbers is 6.
+Quantities : [[= 2.0 ]:(23, 26), [= 6.0 ]:(38, 39)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+461 : A bottle of wine without a cork costs 2.00 dollars more than the cork.
+Quantities : [[= 2.0 ]:(38, 42)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+369 : Two times the first number is one more than the second number.
+Quantities : [[= 2.0 ]:(0, 3), [= 1.0 ]:(30, 33)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+413 : 7 less than 4 times a number equals 13.
+Quantities : [[= 7.0 ]:(0, 1), [= 4.0 ]:(12, 13), [= 13.0 ]:(36, 38)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+999146 : Cisco Systems' stock price target raised to $33 from $31 at Cantor Fitzgerald.
+Quantities : [[= 33.0 ]:(44, 47), [= 31.0 ]:(53, 56)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999028 : Ross Stores announces 18% dividend increase to 23 cents per share.
+Quantities : [[= 0.18 ]:(22, 24), [= 0.23 ]:(47, 49)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999050 : Target cuts free-shipping minimum order to $25 from $50.
+Quantities : [[= 25.0 ]:(43, 46), [= 50.0 ]:(52, 55)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999110 : Arthur J. Gallagher stock price target raised to $55 from $50 at Citigroup.
+Quantities : [[= 55.0 ]:(49, 52), [= 50.0 ]:(58, 61)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+287 : One out of two numbers is thrice the other.
+Quantities : [[= 1.0 ]:(0, 3), [= 2.0 ]:(11, 14), [= 3.0 ]:(26, 32)]
+Gold : 
+[[0, 0, 1]]
+Pred : 
+[[0, 0, 1]]
+999038 : April crude settles at $49.45/bbl, down $1.36.
+Quantities : [[= 49.45 ]:(23, 34), [= 1.36 ]:(40, 46)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+305 : The second is 10 more than 3 times the first.
+Quantities : [[= 10.0 ]:(14, 16), [= 3.0 ]:(27, 28)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+43 : A total of 10,000 dollars was invested in two bond mutual funds , a junk bond fund and a government bond fund.
+Quantities : [[= 10000.0 ]:(11, 17), [= 2.0 ]:(42, 45)]
+Gold : 
+[[1, 0]]
+Pred : 
+[[1, 0]]
+137 : The probability that San Francisco plays in the next super bowl is nine times the probability that they do not play in the next super bowl.
+Quantities : [[= 9.0 ]:(67, 71)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+319 : The cost of a child 's ticket was 4 dollars less than the cost of an adult 's ticket.
+Quantities : [[= 4.0 ]:(34, 35)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+261 : Venus Hall charges 500 dollars to rent the room and 35 dollars for each meal.
+Quantities : [[= 500.0 ]:(19, 22), [= 35.0 ]:(52, 54)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+383 : 530 pesos can buy 4 kilograms of fish and 2 kilograms of pork.
+Quantities : [[= 530.0 ]:(0, 3), [= 4.0 ]:(18, 19), [= 2.0 ]:(42, 43)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+999040 : Nasdaq turns higher, up 2 points at 4,958.
+Quantities : [[= 2.0 ]:(24, 25), [= 4958.0 ]:(36, 41)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999090 : France's CAC opens 0.1% lower at 4,792.50.
+Quantities : [[= 0.001 ]:(19, 22), [= 4792.5 ]:(33, 41)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999150 : Mobile Mini raises quarterly dividend 10% to 18.7 cents a share.
+Quantities : [[= 0.1 ]:(38, 40), [= 0.187 ]:(45, 49)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+127 : Kevin bought 3 muffins and a bottle of juice that cost 1.45 dollars.
+Quantities : [[= 3.0 ]:(13, 14), [= 1.45 ]:(55, 59)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+85 : .833 of a number is -60.
+Quantities : [[= 0.833 ]:(0, 4), [= -60.0 ]:(20, 24)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+659 : The length of the rectangle is 12 centimeters less than three times the width.
+Quantities : [[= 12.0 ]:(31, 33), [= 3.0 ]:(56, 61)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999094 : U.K.'s FTSE opens 0.4% lower at 6,873.42.
+Quantities : [[= 0.004 ]:(18, 21), [= 6873.42 ]:(32, 40)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+15 : For his long distance phone service Milan pays a 2 dollars monthly fee plus 12 cents per minute.
+Quantities : [[= 2.0 ]:(49, 50), [= 0.12 ]:(76, 78)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+279 : The freight train travels 30 kilometers per hour slower than the express train.
+Quantities : [[= 30.0 ]:(26, 28)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+411 : 3 times one of the numbers is 11 less than 5 times the other.
+Quantities : [[= 3.0 ]:(0, 1), [= 1.0 ]:(8, 11), [= 11.0 ]:(30, 32), [= 5.0 ]:(43, 44)]
+Gold : 
+[[1, 0, 1, 1]]
+Pred : 
+[[1, 1, 1, 1]]
+271 : Jim plans to save 15 dollars a week.
+Quantities : [[= 15.0 ]:(18, 20)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+449 : 3 Pairs of jeans and 6 shirts costs 104.25 dollars.
+Quantities : [[= 3.0 ]:(0, 1), [= 6.0 ]:(21, 22), [= 104.25 ]:(36, 42)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+29 : Sum of two numbers is 64.
+Quantities : [[= 2.0 ]:(7, 10), [= 64.0 ]:(22, 24)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+307 : The greater number exceeds twice the smaller number by 5.
+Quantities : [[= 2.0 ]:(27, 32), [= 5.0 ]:(55, 56)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+417 : Twice the larger number exceeds 3 times the smaller number by 16.
+Quantities : [[= 2.0 ]:(0, 5), [= 3.0 ]:(32, 33), [= 16.0 ]:(62, 64)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+580 : The age of the older of two boys is thrice that of the younger.
+Quantities : [[= 2.0 ]:(24, 27), [= 3.0 ]:(36, 42)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+999064 : Japan's Topix up 0.7% at 1,510.61 in early moves.
+Quantities : [[= 0.006999999999999999 ]:(17, 20), [= 1510.61 ]:(25, 33)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999102 : Japan's Nikkei Average up 0.2% at 18241.48 at open.
+Quantities : [[= 0.002 ]:(26, 29), [= 18241.48 ]:(34, 42)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+479 : The total number of Democrats and Republicans in the House of Representatives was 434.
+Quantities : [[= 434.0 ]:(82, 85)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+263 : When 4 times the number is added to 7 times the number the result is 55.
+Quantities : [[= 4.0 ]:(5, 6), [= 7.0 ]:(36, 37), [= 55.0 ]:(69, 71)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+999010 : Walter Investment Mgmt stock price target cut to $22 from $30 at Credit Suisse.
+Quantities : [[= 22.0 ]:(49, 52), [= 30.0 ]:(58, 61)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+493 : The cost includes an overhead of 81,000 dollars , plus production costs of 7,000 dollars per performance.
+Quantities : [[= 81000.0 ]:(33, 39), [= 7000.0 ]:(75, 80)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+526 : When five is added to three more than a certain number, the result is 19.
+Quantities : [[= 5.0 ]:(5, 9), [= 3.0 ]:(22, 27), [= 19.0 ]:(70, 72)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+419 : He has 4 times as many large postcards as small postcards.
+Quantities : [[= 4.0 ]:(7, 8)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+453 : The world 's oldest bride was 19 years older than her groom.
+Quantities : [[= 19.0 ]:(30, 32)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+371 : They won 36 more than they lost.
+Quantities : [[= 36.0 ]:(9, 11)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+Accuracy : = 74.0 / 77 = 0.961038961038961
+87 : The sum of two numbers is 104.
+Quantities : [[= 2.0 ]:(11, 14), [= 104.0 ]:(26, 29)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+999012 : Safe Bulkers stock price target cut to $4 from $12 at Credit Suisse.
+Quantities : [[= 4.0 ]:(39, 41), [= 12.0 ]:(47, 50)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+363 : 7 audio cassettes and 3 video cassettes cost rs 1110.
+Quantities : [[= 7.0 ]:(0, 1), [= 3.0 ]:(22, 23), [= 1110.0 ]:(48, 52)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+151 : City Rentals rent an intermediate-size car for 18.95 dollars plus 0.21 per mile.
+Quantities : [[= 18.95 ]:(47, 52), [= 0.21 ]:(66, 70)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+603 : The second angle is 10 degrees larger than 4 times the measure of the first angle.
+Quantities : [[= 10.0 ]:(20, 22), [= 4.0 ]:(43, 44)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+243 : Lane invested 22,000 dollars , part at 8 % and part at 7 %.
+Quantities : [[= 22000.0 ]:(14, 20), [= 0.08 ]:(39, 40), [= 0.07 ]:(55, 56)]
+Gold : 
+[[1, 0, 0]]
+Pred : 
+[[1, 0, 0]]
+512 : A coin purse contains 18 coins in nickels and dimes. 
+Quantities : [[= 18.0 ]:(22, 24)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+257 : The cost of the first shipment which contained 10 identical sweaters and 20 identical jackets was 800 dollars.
+Quantities : [[= 10.0 ]:(47, 49), [= 20.0 ]:(73, 75), [= 800.0 ]:(98, 101)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+451 : One week she works in the office twice as long as she drives the tractor.
+Quantities : [[= 1.0 ]:(0, 3), [= 2.0 ]:(33, 38)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+81 : The price of the washer is 3 times the price of the dryer.
+Quantities : [[= 3.0 ]:(27, 28)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+999144 : Cisco Systems' stock price target raised to $30 from $27 at Pacific Crest.
+Quantities : [[= 30.0 ]:(44, 47), [= 27.0 ]:(53, 56)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+391 : 2 times the larger integer is 10 less than 5 times the smaller integer.
+Quantities : [[= 2.0 ]:(0, 1), [= 10.0 ]:(30, 32), [= 5.0 ]:(43, 44)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+495 : One number is 11 more than 3 times another number.
+Quantities : [[= 1.0 ]:(0, 3), [= 11.0 ]:(14, 16), [= 3.0 ]:(27, 28)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+999106 : March oil down $1.39, to settle at $52.14/bbl.
+Quantities : [[= 1.39 ]:(15, 21), [= 52.14 ]:(35, 46)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999096 : Stoxx Europe opens 0.4% lower at 379.03.
+Quantities : [[= 0.004 ]:(19, 22), [= 379.03 ]:(33, 39)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+485 : A 177-inch pipe is cut into two pieces.
+Quantities : [[= 177.0 ]:(2, 5), [= 2.0 ]:(28, 31)]
+Gold : 
+[[1, 0]]
+Pred : 
+[[1, 0]]
+205 : One number exceeds another by 10.
+Quantities : [[= 1.0 ]:(0, 3), [= 10.0 ]:(30, 32)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+359 : If 6 is subtracted from three times a number , the difference is twice the number.
+Quantities : [[= 6.0 ]:(3, 4), [= 3.0 ]:(24, 29), [= 2.0 ]:(65, 70)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+999100 : Brent crude drops 1.7%, to $59.48 a barrel.
+Quantities : [[= 0.017 ]:(18, 23), [= 59.48 ]:(27, 33)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+153 : Jill has 6 more dolls than Jane does.
+Quantities : [[= 6.0 ]:(9, 10)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+27 : Her ratio of time spent on aerobics to time spent on weight training is 3 to 2.
+Quantities : [[= 3.0 ]:(72, 73), [= 2.0 ]:(77, 78)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999092 : Germany's DAX opens 0.3% lower at 10,927.16.
+Quantities : [[= 0.003 ]:(20, 23), [= 10927.16 ]:(34, 43)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999044 : IMS Health stock price target raised to $30 from $27 at Barclays.
+Quantities : [[= 30.0 ]:(40, 43), [= 27.0 ]:(49, 52)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+69 : Flying with the wind , a bird was able to make 150 kilometers per hour.
+Quantities : [[= 150.0 ]:(47, 50)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+221 : There are 3 more girls than boys in Tom 's class.
+Quantities : [[= 3.0 ]:(10, 11)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+123 : There are 301 apples and oranges all together.
+Quantities : [[= 301.0 ]:(10, 13)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+283 : The peach is more expensive than the apple by 60 cents.
+Quantities : [[= 0.6 ]:(46, 48)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+173 : One piece is to be 3 foot longer than twice the length of the shorter piece.
+Quantities : [[= 1.0 ]:(0, 3), [= 3.0 ]:(19, 20), [= 2.0 ]:(38, 43)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+999048 : Colgate-Palmolive stock price target raised to $81 from $74 at Citigroup.
+Quantities : [[= 81.0 ]:(47, 50), [= 74.0 ]:(56, 59)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999072 : March oil down 1.9%, to settle at $51.16/bbl on Nymex
+Quantities : [[= 0.019 ]:(15, 20), [= 51.16 ]:(34, 44)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+999066 : U.K.'s FTSE opens 2 point lower at 6,885.24.
+Quantities : [[= 2.0 ]:(18, 19), [= 6885.24 ]:(35, 43)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+187 : The larger of two numbers is 23 less than thrice the smaller.
+Quantities : [[= 2.0 ]:(14, 17), [= 23.0 ]:(29, 31), [= 3.0 ]:(42, 48)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+89 : The larger number is 1 less than twice the smaller number.
+Quantities : [[= 1.0 ]:(21, 22), [= 2.0 ]:(33, 38)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+191 : A garden table and a bench cost 750 combined.
+Quantities : [[= 750.0 ]:(32, 35)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+59 : Stan invested 17,000 dollars , part at 18 % and part at 4 %.
+Quantities : [[= 17000.0 ]:(14, 20), [= 0.18 ]:(39, 41), [= 0.04 ]:(56, 57)]
+Gold : 
+[[1, 0, 0]]
+Pred : 
+[[1, 0, 1]]
+489 : Plan A costs 0.25 dollars per text message , plus a monthly fee of 9 dollars.
+Quantities : [[= 0.25 ]:(13, 17), [= 9.0 ]:(67, 68)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+181 : 17 is 4 less than 8 times a number.
+Quantities : [[= 17.0 ]:(0, 2), [= 4.0 ]:(6, 7), [= 8.0 ]:(18, 19)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+999022 : Japan's Nikkei Average opens 0.3% up at 844.28.
+Quantities : [[= 0.003 ]:(29, 32), [= 844.28 ]:(40, 46)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+71 : Safety Rent A Truck costs 41.95 dollars plus 0.29 dollars per mile.
+Quantities : [[= 41.95 ]:(26, 31), [= 0.29 ]:(45, 49)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+39 : One number is 3 times the other.
+Quantities : [[= 1.0 ]:(0, 3), [= 3.0 ]:(14, 15)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+105 : The larger number is 2 more than 3 times the smaller number.
+Quantities : [[= 2.0 ]:(21, 22), [= 3.0 ]:(33, 34)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+510 : A bank contains 27 coins in dimes and quarters.
+Quantities : [[= 27.0 ]:(16, 18)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+465 : The number of student tickets sold was two times the number of adult tickets sold.
+Quantities : [[= 2.0 ]:(39, 42)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+255 : They craw toward each other at rates that differ by 6 centimeters per minute.
+Quantities : [[= 6.0 ]:(52, 53)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+395 : There were 11 more Republicans than Democrats.
+Quantities : [[= 11.0 ]:(11, 13)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+327 : The shoe store has twice as many black shoes as it does brown shoes.
+Quantities : [[= 2.0 ]:(19, 24)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+201 : There are 5 fewer girls than boys.
+Quantities : [[= 5.0 ]:(10, 11)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+25 : Each week he earns 190 dollars plus commission equal to 4 % of his sales.
+Quantities : [[= 190.0 ]:(19, 22), [= 0.04 ]:(56, 57)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+293 : Phyllis invested 39000 dollars , a portion earning a simple interest rate of 4 % per year and the rest earning a rate of 6 % per year.
+Quantities : [[= 39000.0 ]:(17, 22), [= 0.04 ]:(77, 78), [= 0.06 ]:(121, 122)]
+Gold : 
+[[1, 0, 0]]
+Pred : 
+[[1, 1, 0]]
+615 : The second pieces is 7 times as long as the first piece.
+Quantities : [[= 7.0 ]:(21, 22)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+65 : The difference of twice of one of them and the other one is 5.
+Quantities : [[= 2.0 ]:(18, 23), [= 1.0 ]:(27, 30), [= 1.0 ]:(53, 56), [= 5.0 ]:(60, 61)]
+Gold : 
+[[1, 0, 0, 1]]
+Pred : 
+[[1, 0, 0, 1]]
+57 : An investor will invest a total of 15000 dollars in 2 accounts , one paying 4 % annual simple interest and the other 3 %.
+Quantities : [[= 15000.0 ]:(35, 40), [= 2.0 ]:(52, 53), [= 1.0 ]:(65, 68), [= 0.04 ]:(76, 77), [= 0.03 ]:(117, 118)]
+Gold : 
+[[1, 0, 0, 0, 0]]
+Pred : 
+[[1, 0, 0, 0, 0]]
+47 : Sam 's Picture Emporium charges 1.50 dollars per sheet and a one time sitting fee of 140 dollars.
+Quantities : [[= 1.5 ]:(32, 36), [= 1.0 ]:(61, 64), [= 140.0 ]:(85, 88)]
+Gold : 
+[[1, 0, 1]]
+Pred : 
+[[1, 0, 1]]
+623 : The degree measure of angle C is 30 degrees larger than the degree measure of angle A.
+Quantities : [[= 30.0 ]:(33, 35)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+633 : The amount invested in the certificate of deposit is 3,000 dollars more than 8 times the amount invested in the mutual fund.
+Quantities : [[= 3000.0 ]:(53, 58), [= 8.0 ]:(77, 78)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+497 : One integer is twice another.
+Quantities : [[= 1.0 ]:(0, 3), [= 2.0 ]:(15, 20)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+609 : After several days, he is four times as far from the beginning of the trail as he is from the end.
+Quantities : [[= 4.0 ]:(26, 30)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+245 : 1 number is 9 less than twice another.
+Quantities : [[= 1.0 ]:(0, 1), [= 9.0 ]:(12, 13), [= 2.0 ]:(24, 29)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+999016 : FedEx stock price target raised to $203 from $177 at Credit Suisse.
+Quantities : [[= 203.0 ]:(35, 39), [= 177.0 ]:(45, 49)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+639 : The length of the rectangle is 28 inches more than twice the width.
+Quantities : [[= 28.0 ]:(31, 33), [= 2.0 ]:(51, 56)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+1 : A writing workshop enrolls novelists and poets in a ratio of 5 to 3.
+Quantities : [[= 5.0 ]:(61, 62), [= 3.0 ]:(66, 67)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+341 : One car is traveling 15 kilometers per hour faster than the other.
+Quantities : [[= 1.0 ]:(0, 3), [= 15.0 ]:(21, 23)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+999142 : Cisco Systems' stock price target raised to $31 from $28 at Sterne Agee.
+Quantities : [[= 31.0 ]:(44, 47), [= 28.0 ]:(53, 56)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+365 : One piece is 2 times the length of the other.
+Quantities : [[= 1.0 ]:(0, 3), [= 2.0 ]:(13, 14)]
+Gold : 
+[[0, 1]]
+Pred : 
+[[0, 1]]
+552 : The bicycle cost 5 times as much as the helmet.
+Quantities : [[= 5.0 ]:(17, 18)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+183 : Jerry Weller received 20,196 more votes than opponent John Pavich.
+Quantities : [[= 20196.0 ]:(22, 28)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+421 : The total cost of a pair of pants and a belt was 70.93 dollars.
+Quantities : [[= 70.93 ]:(49, 54)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+999056 : Stoxx Europe opens 0.6% higher at 384.39.
+Quantities : [[= 0.006 ]:(19, 22), [= 384.39 ]:(34, 40)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+373 : The difference between 0.75 of a line and 0.4 of the same line is 28 centimeters.
+Quantities : [[= 0.75 ]:(23, 27), [= 0.4 ]:(42, 45), [= 28.0 ]:(66, 68)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+475 : Bob invested 22,000 dollars , part at 18 % and part at 14 %.
+Quantities : [[= 22000.0 ]:(13, 19), [= 0.18 ]:(38, 40), [= 0.14 ]:(55, 57)]
+Gold : 
+[[1, 0, 0]]
+Pred : 
+[[1, 0, 1]]
+607 : Nine less than five times a certain number is 141.
+Quantities : [[= 9.0 ]:(0, 4), [= 5.0 ]:(15, 19), [= 141.0 ]:(46, 49)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+487 : The number of baseball cards he has is five more than three times the number of football cards.
+Quantities : [[= 5.0 ]:(39, 43), [= 3.0 ]:(54, 59)]
+Gold : 
+[[1, 1]]
+Pred : 
+[[1, 1]]
+574 : The sum of the ages of a china plate and a glass plate is 16 years. 
+Quantities : [[= 16.0 ]:(58, 60)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+325 : Honda day shift produced 4 times as much as second shift.
+Quantities : [[= 4.0 ]:(25, 26)]
+Gold : 
+[[1]]
+Pred : 
+[[1]]
+297 : 24 is divided into two parts.
+Quantities : [[= 24.0 ]:(0, 2), [= 2.0 ]:(19, 22)]
+Gold : 
+[[1, 0]]
+Pred : 
+[[1, 0]]
+177 : She can buy four roses and five daisies for 7.90 dollars.
+Quantities : [[= 4.0 ]:(12, 16), [= 5.0 ]:(27, 31), [= 7.9 ]:(44, 48)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+277 : One number is 3 less than twice another.
+Quantities : [[= 1.0 ]:(0, 3), [= 3.0 ]:(14, 15), [= 2.0 ]:(26, 31)]
+Gold : 
+[[0, 1, 1]]
+Pred : 
+[[0, 1, 1]]
+125 : Find the number whose double is 45 greater than its half.
+Quantities : [[= 2.0 ]:(22, 28), [= 45.0 ]:(32, 34), [= 0.5 ]:(52, 56)]
+Gold : 
+[[1, 1, 1]]
+Pred : 
+[[1, 1, 1]]
+Accuracy : = 74.0 / 77 = 0.961038961038961

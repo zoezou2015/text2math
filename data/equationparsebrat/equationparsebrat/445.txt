@@ -1,0 +1,5 @@
+Wednesdays game generates 142.50 dollars less than Saturdays game.
+
+V1=V2-142.50
+
+[(Wednesdays )(game )][generates ][142.50 (dollars )][less ][than ][(Saturdays )(game )]. 

@@ -1,0 +1,5 @@
+A company 's profit for the first half of the year is 2,750,000 dollars greater than the profit for the second half.
+
+V1=2750000+V2
+
+[A (company )]['s (profit )][for ][the first (half )][of ][the (year )][is ][2,750,000 (dollars )][greater ][than ][the (profit )][for ][the second (half )]. 

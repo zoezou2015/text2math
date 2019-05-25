@@ -1,0 +1,5 @@
+There are 5 fewer girls than boys.
+
+V1=V2+5
+
+[There ][are ][5 ][fewer (girls )][than ][(boys )]. 

@@ -1,0 +1,1 @@
+Roger was helping the cafeteria workers pick up lunch trays, but he could only carry 4.0 trays at a time. If he had to pick up 10.0 trays from 1.0 table and 2.0 trays from another, how many trips will he make?

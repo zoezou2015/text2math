@@ -1,0 +1,5 @@
+March oil down $1.39, to settle at $52.14/bbl.
+
+V1=52.14-1.39
+
+[(March )(oil )][down ]($1.39 ), [to settle ][at ][($52.14 )(/ )(bbl )]. 

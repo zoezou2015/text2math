@@ -1,0 +1,5 @@
+A total of 50000 dollars is invested, part of it at 5% and the rest at 7.5%. 
+
+V1+V2=50000
+
+[A (total )][of ][50000 (dollars )][is invested ], [(part )][of ][it ][at ][5 (% )]and [the (rest )][at ][7.5 (% )]. 

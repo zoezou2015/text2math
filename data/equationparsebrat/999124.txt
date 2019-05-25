@@ -1,0 +1,5 @@
+Transocean stock price target cut to $6 from $16 at Deutsche Bank.
+
+V1=16-6
+
+[Transocean (stock )(price )(target )(cut )][to ][($6 )][from ][($16 )][at ][(Deutsche )(Bank )]. 

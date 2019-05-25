@@ -1,0 +1,5 @@
+The first plane is flying 25 mph slower than the second plane. 
+
+V1=V2-25
+
+[The first (plane )][is flying ][25 (mph )][slower ][than ][the second (plane )]. 

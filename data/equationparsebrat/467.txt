@@ -1,0 +1,5 @@
+This is 3 meters less than twice the width.
+
+V1=(2*V2)-3
+
+[This ][is ][3 (meters )][less ][than ][twice the (width )]. 

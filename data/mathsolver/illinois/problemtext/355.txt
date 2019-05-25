@@ -1,0 +1,1 @@
+Eric wants to split a collection of peanuts into groups of 8. Eric has 64 peanuts. How many groups will be created?

@@ -1,0 +1,5 @@
+The state market has 27 more apples than oranges.
+
+V1=V2-27
+
+[The (state )(market )][has ][27 more (apples )][than ][(oranges )]. 

@@ -1,0 +1,1 @@
+A worker at a medical lab is studying blood samples . 2.0 samples contained a total of 7341.0 blood cells . The third sample contained 4221.0 blood cells . How many blood cells were there in total?

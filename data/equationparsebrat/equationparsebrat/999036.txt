@@ -1,0 +1,5 @@
+Japan's Topix down 0.1% at 1,506.39 in early moves.
+
+V1-(0.001*V1)=1506.39
+
+[(Japan )]['s (Topix )][down ][0.1 (% )][at ][1,506.39 ][in ][early (moves )]. 
