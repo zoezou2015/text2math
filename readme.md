@@ -50,7 +50,7 @@ bash prepare_torch.sh
 
 ## Reproducing the experimental results
 
-The following script will pre-train a hybrid tree model, train the neural network, and perform evaluation on the standard GeoQuery dataset.
+The following script will run the `text2math` for two tasks over three datasets, respectively.
 
 ```
 bash run_parser.sh
@@ -62,7 +62,7 @@ Run a neural net server that listens on port 5556 and specify the `gpuid` (>= 0 
 th server.lua -port 5556 -gpuid -1
 ```
 
-Train neural hybrid tree models for multiple languages:
+Train the `text2math` with neural features for two tasks:
 
 ```
 bash run_neural.sh
