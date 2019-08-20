@@ -1,6 +1,6 @@
 # The StatNLP Semantic Parser
 
-Code for the: Text2Math: End-to-end Parsing Text into Math Expressions
+Code for the paper ``Text2Math: End-to-end Parsing Text into Math Expressions" accepted by EMNLP 2019
 
 ## Installation
 
