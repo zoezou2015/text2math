@@ -67,6 +67,21 @@ Train the `text2math` with neural features for two tasks:
 ```
 bash run_neural.sh
 ```
+### Cite 
+```
+@InProceedings{zou-19-text2math,
+  author    = {Zou, Yanyan and Lu, Wei},
+  title     = {Text2Math: End-to-end Parsing Text into Math Expressions},
+  booktitle = {Proceedings of EMNLP},
+  year={2019}
+}
+```
+```
 
+## Contact
 
+Yanyan Zou and Wei Lu, Singapore University of Technology and Design
+
+Please feel free to drop an email at yanyan_zou@mymail.sutd.edu.sg for questions.
+```
 
